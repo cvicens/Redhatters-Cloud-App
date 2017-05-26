@@ -18,8 +18,6 @@ app.use(cors());
 app.use('/sys', mbaasExpress.sys(securableEndpoints));
 app.use('/mbaas', mbaasExpress.mbaas);
 
-
-
 /* uncomment this code if you want to use $fh.auth in the app preview
  * localAuth is only used for local development. 
  * If the app is deployed on the platform, 
@@ -42,6 +40,7 @@ app.use(express.static(__dirname + '/public'));
 app.use(mbaasExpress.fhmiddleware());
 
 app.use('/hello', require('./lib/hello.js')());
+app.use('/login', require('./lib/login.js')());
 
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
