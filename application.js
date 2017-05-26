@@ -9,12 +9,16 @@ securableEndpoints = ['/hello'];
 
 var app = express();
 
+
+
 // Enable CORS for all requests
 app.use(cors());
 
 // Note: the order which we add middleware to Express here is important!
 app.use('/sys', mbaasExpress.sys(securableEndpoints));
 app.use('/mbaas', mbaasExpress.mbaas);
+
+
 
 /* uncomment this code if you want to use $fh.auth in the app preview
  * localAuth is only used for local development. 
@@ -44,6 +48,67 @@ app.use(mbaasExpress.errorHandler());
 
 var port = process.env.FH_PORT || process.env.OPENSHIFT_NODEJS_PORT || 8001;
 var host = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
-app.listen(port, host, function() {
+var server = app.listen(port, host, function() {
   console.log("App started at: " + new Date() + " on port: " + port); 
+});
+
+//var io = require('socket.io')(server);
+var io = require('socket.io').listen(server);
+io.set('log level', 1);
+
+var users = [];
+
+var updateUserList = function() {
+  io.sockets.in('room').emit('userlist', {
+    "users": users
+  });
+};
+
+// Handler new users connecting
+io.sockets.on('connection', function(socket) {
+
+  // save user to user list
+ var userObj = {
+    "socketId": socket.id,
+  };
+  users.push(userObj);
+
+  // let user know their info
+  socket.emit('user', userObj);
+
+  // join user to room
+  socket.join('room');
+
+  // let everyone know update to user list
+  updateUserList();
+
+  // Broadcast messages to all clients
+  socket.on('add-message', function(data) {
+    var message = {
+      data: data
+    };
+    io.sockets.in('room').emit('question', message);
+    //console.log('data=' + JSON.stringify(message));
+  });
+
+  // Broadcast messages to all clients
+  socket.on('message', function(data) {
+    var message = {
+      data: data
+    };
+    io.sockets.in('room').emit('message', message);
+    //console.log('data=' + JSON.stringify(message));
+  });
+
+  // If user disconnects
+  socket.on('disconnect', function() {
+    // update user list
+    users.splice(users.indexOf(userObj), 1);
+
+    // let everyone know update to user list
+    updateUserList();
+
+    var message = socket.id + ' disconnected';
+    //console.log(message);
+  });
 });
