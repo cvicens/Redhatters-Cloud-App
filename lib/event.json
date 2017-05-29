@@ -1,0 +1,191 @@
+{
+    "id": "0001",
+    "address": "Paseo de la Castellana 259C",
+    "city": "MADRID",
+    "province": "MADRID",
+    "country": "SPAIN",
+    "date": "2017-05-29",
+    "startTime": "10:00",
+    "endTime": "21:00",
+    "quiz" : [
+       { 
+           "question" : "What's the capital of Spain?",
+           "choices" : [
+                "Paris", "Barcelona", "Madrid"
+           ],
+           "answers" : [2]
+       },
+       { 
+           "question" : "What's the capital of France?",
+           "choices" : [
+                "Paris", "Barcelona", "Madrid"
+           ],
+           "answers" : [0]
+       },
+       { 
+           "question" : "What's the capital of Italy?",
+           "choices" : [
+                "Rome", "Barcelona", "Madrid"
+           ],
+           "answers" : [0]
+       }
+    ],
+    "agenda" : [  
+    {  
+        "1497000600":[  
+            {  
+                "day":1,
+                "sessionTitle":"Recogida en las oficinas de Red Hat",
+                "sessionSlug":"day-1-pick-up",
+                "sessionLocation":"Red Hat Office, MAdrid",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T07:30:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T08:00:00.000"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"xeBniOY5Qb",
+                "sortTime":"1497000600",
+                "displayTime":"9:30am"
+            }
+        ],
+        "1497002400" : [
+            {  
+                "day":1,
+                "sessionTitle":"Café de bienvenida",
+                "sessionSlug":"day-1-breakfast",
+                "sessionLocation":"Hall, Las Rozas",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T08:00:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T08:30:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497002400",
+                "displayTime":"10:00am"
+            }
+        ],
+        "1497004200" : [
+            {  
+                "day":1,
+                "sessionTitle":"Country Meeting - Sala de conferencias",
+                "sessionSlug":"day-1-contry-meeting",
+                "sessionLocation":"Sala conferencias, Las Rozas",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T08:30:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T10:30:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497004200",
+                "displayTime":"10:30am"
+            }
+        ],
+        "1497011400" : [
+            {  
+                "day":1,
+                "sessionTitle":"Preparación Técnica - Actividad en equipo",
+                "sessionSlug":"day-1-team-building-prep",
+                "sessionLocation":"Sala conferencias, Las Rozas",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T10:30:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T11:00:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497011400",
+                "displayTime":"12:30am"
+            }
+        ],
+        "1497013200" : [
+            {  
+                "day":1,
+                "sessionTitle":"Open Bar & Actividad de equipo",
+                "sessionSlug":"day-1-team-building-activity",
+                "sessionLocation":"Túnel del viento",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T11:00:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T13:00:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497013200",
+                "displayTime":"13:00am"
+            }
+        ],
+        "1497020400" : [
+            {  
+                "day":1,
+                "sessionTitle":"Almuerzo - Cocktail",
+                "sessionSlug":"day-1-lunch",
+                "sessionLocation":"Bar",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T13:00:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T15:00:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497020400",
+                "displayTime":"15:00am"
+            }
+        ],
+        "1497027600" : [
+            {  
+                "day":1,
+                "sessionTitle":"Regreso a las oficinas de Red Hat",
+                "sessionSlug":"day-1-return",
+                "sessionLocation":"Bus Station",
+                "startTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T15:00:00.000Z"
+                },
+                "endTime":{  
+                "__type":"Date",
+                "iso":"2017-06-09T15:30:00.000Z"
+                },
+                "hasDetails":false,
+                "onMySchedule":false,
+                "allDay":false,
+                "objectId":"TCICVoDUMX",
+                "sortTime":"1497027600",
+                "displayTime":"17:00am"
+            }
+        ]
+    }
+    ]
+}

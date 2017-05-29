@@ -1,0 +1,3652 @@
+[  
+   {  
+      "1492502400":[  
+         {  
+            "day":1,
+            "sessionTitle":"Registration",
+            "sessionSlug":"day-1-registration",
+            "sessionLocation":"Registration Desk",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T08:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T19:00:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-10T23:55:17.900Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"67bfc06d0ffa9a7ccfc1cd5a3eb405f7_registration.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/67bfc06d0ffa9a7ccfc1cd5a3eb405f7_registration.png"
+            },
+            "objectId":"xeBniOY5Qb",
+            "sortTime":"1492502400",
+            "displayTime":"8:00am"
+         },
+         {  
+            "day":1,
+            "sessionTitle":"Breakfast",
+            "sessionSlug":"day-1-breakfast",
+            "sessionLocation":"LL",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T08:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T10:00:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-03-07T21:23:24.127Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"f02cf87b92f331f885307d7260172b4e_Breakfast.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/f02cf87b92f331f885307d7260172b4e_Breakfast.png"
+            },
+            "objectId":"TCICVoDUMX",
+            "sortTime":"1492502400",
+            "displayTime":"8:00am"
+         }
+      ],
+      "1492509600":[  
+         {  
+            "day":1,
+            "sessionTitle":"Keynote",
+            "sessionSlug":"day-1-keynote",
+            "sessionLocation":"City National Civic",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T10:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T11:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-03-07T21:23:59.577Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"01dd29717a33c0706f0a03e18a117d6c_keynote.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/01dd29717a33c0706f0a03e18a117d6c_keynote.png"
+            },
+            "objectId":"maecG8yQfh",
+            "sortTime":"1492509600",
+            "displayTime":"10:00am"
+         }
+      ],
+      "1492515000":[  
+         {  
+            "day":1,
+            "sessionTitle":"Lunch",
+            "sessionSlug":"day-1-lunch",
+            "sessionLocation":"Festival Hall",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T11:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-03-07T21:24:28.950Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"c59c51d51334e1b0d4e778ab3328c7b0_Lunch.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/c59c51d51334e1b0d4e778ab3328c7b0_Lunch.png"
+            },
+            "objectId":"FyAd4DQuFg",
+            "sortTime":"1492515000",
+            "displayTime":"11:30am"
+         }
+      ],
+      "1492518600":[  
+         {  
+            "sessionSlug":"introduction-to-the-camera-effects-platform",
+            "createdAt":"2017-01-28T00:00:17.219Z",
+            "updatedAt":"2017-04-18T18:25:59.759Z",
+            "sessionTitle":"Introduction to the Camera Effects Platform",
+            "onMySchedule":false,
+            "sessionDescription":"Come hear more about Camera Effects Platform, a suite of creative tools that lets you create effects for the Facebook camera, from simple photo frames to interactive masks and effects that use Augmented Reality (AR). In this session you’ll learn what camera effects are, how to create and submit your own, and how you can connect with the audiences that matter to you by providing rich experiences that help them express themselves.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "tags":[  
+               "Camera"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Mike Arcuri",
+                  "createdAt":"2017-01-28T01:14:03.731Z",
+                  "updatedAt":"2017-02-02T16:35:55.084Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"yUvVDAES9C",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Michael Slater",
+                  "createdAt":"2017-01-28T01:14:52.245Z",
+                  "updatedAt":"2017-02-02T16:35:49.844Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"dJoK3lVjaa",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionLocation":"G",
+            "ogImage":{  
+               "__type":"File",
+               "name":"9955a21d0b30fda8b9a646cc1b929244_Get Creative with the Facebook Camera.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/9955a21d0b30fda8b9a646cc1b929244_Get%20Creative%20with%20the%20Facebook%20Camera.png"
+            },
+            "objectId":"ATp6I7gvSY",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"growth-marketing-best-practices-for-getting-and-keeping-an-audience",
+            "createdAt":"2017-01-27T23:13:29.717Z",
+            "updatedAt":"2017-04-09T00:38:57.621Z",
+            "sessionTitle":"Growth Marketing: Best Practices for Getting and Keeping an Audience",
+            "onMySchedule":false,
+            "sessionDescription":"Even the most successful apps must constantly work to build and maintain their customer bases. Join Facebook’s growth marketing experts for best practices in acquisition, optimization, engagement and virality.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "sessionLocation":"C",
+            "allDay":false,
+            "day":1,
+            "tags":[  
+               "Growth"
+            ],
+            "speakers":[  
+               {  
+                  "speakerName":"Brian Hale ",
+                  "createdAt":"2017-01-27T23:42:44.125Z",
+                  "updatedAt":"2017-02-02T16:36:48.730Z",
+                  "speakerTitle":"Growth Marketing Director",
+                  "objectId":"zkIu1j99KQ",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"c8aefaf8e2a63d4c2e0ed97e8d60d61e_Growth Marketing Best Practices for Getting and Keeping an Audience.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/c8aefaf8e2a63d4c2e0ed97e8d60d61e_Growth%20Marketing%20Best%20Practices%20for%20Getting%20and%20Keeping%20an%20Audience.png"
+            },
+            "objectId":"dMiyvoKZrO",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"litho-a-declarative-framework-for-efficient-UIs",
+            "createdAt":"2017-01-30T18:59:48.838Z",
+            "updatedAt":"2017-04-18T20:35:45.698Z",
+            "sessionTitle":"Litho: A Declarative Framework for Efficient UIs",
+            "onMySchedule":false,
+            "sessionDescription":"Components for Android allows developers to implement complex, efficient RecyclerViews through a simple declarative API. In this session we’ll discuss the function and features of this powerful framework.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Lucas Rocha ",
+                  "createdAt":"2017-01-30T19:01:26.851Z",
+                  "updatedAt":"2017-02-02T16:34:27.362Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"aNyeqwAuj4",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Emil Sjölander",
+                  "createdAt":"2017-01-30T19:08:33.709Z",
+                  "updatedAt":"2017-02-08T19:25:25.226Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"Gb7i4jBAMd",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"cd8a1af8c9415e34d34da29d5c445c6d_Litho A Declarative Framework for Efficient UIs.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/cd8a1af8c9415e34d34da29d5c445c6d_Litho%20A%20Declarative%20Framework%20for%20Efficient%20UIs.png"
+            },
+            "objectId":"lq2lyOX2cT",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"webvr-enabling-developers-to-build-engaging-cross-platform-vr-content",
+            "createdAt":"2017-02-01T17:51:40.546Z",
+            "updatedAt":"2017-04-18T19:20:43.192Z",
+            "sessionTitle":"WebVR: Enabling Developers to Build Engaging Cross-Platform VR Content",
+            "onMySchedule":false,
+            "sessionDescription":"Web-based frameworks such as React VR are making it easier than ever to create VR content that can be shared with a huge audience across VR, mobile, and the web. Coupled with the new web browser that Oculus is building, more of the web will become immersive over the coming years. Join us to learn what you can build with WebVR and how this new technology can help enhance your existing content.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "sessionLocation":"LL",
+            "speakers":[  
+               {  
+                  "speakerName":"Justin Rogers",
+                  "createdAt":"2017-03-29T18:06:31.020Z",
+                  "updatedAt":"2017-03-29T18:06:39.027Z",
+                  "speakerTitle":"Software Engineering Manager",
+                  "objectId":"lGOYLocp3Y",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Andrew Mo",
+                  "createdAt":"2017-02-01T00:38:27.572Z",
+                  "updatedAt":"2017-02-02T20:11:01.575Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"rVeP3cC81p",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Mike Armstrong",
+                  "createdAt":"2017-02-04T01:01:44.177Z",
+                  "updatedAt":"2017-02-04T01:01:58.764Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"5rJIf8Z5nh",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"e7367d84d0bd1d44a609b60ef8dc955c_WebVR Enabling Developers to Build Engaging CrossPlatform VR Content.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/e7367d84d0bd1d44a609b60ef8dc955c_WebVR%20Enabling%20Developers%20to%20Build%20Engaging%20CrossPlatform%20VR%20Content.png"
+            },
+            "objectId":"BtAd2PxPPn",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"boost-your-business-with-messenger",
+            "createdAt":"2017-02-01T17:55:05.944Z",
+            "updatedAt":"2017-03-21T16:28:18.888Z",
+            "sessionTitle":"Boost Your Business With Messenger",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook Messenger connects over a billion people around the world. For marketers and bot builders, this session presents best practices and tips for engaging your audience with Messenger.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:50:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Kemal El Moujahid",
+                  "createdAt":"2017-02-01T00:39:25.201Z",
+                  "updatedAt":"2017-02-02T16:27:39.502Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"f1s0xc1BE3",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Allison Swope",
+                  "createdAt":"2017-02-01T00:39:34.592Z",
+                  "updatedAt":"2017-02-02T16:27:27.665Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"Agq6kn6fYx",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Messenger"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"e03abbc66bc764650dd3d0524b7e8c40_Boost Your Business With Messenger.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/e03abbc66bc764650dd3d0524b7e8c40_Boost%20Your%20Business%20With%20Messenger.png"
+            },
+            "objectId":"bGJviTsBMv",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"media-and-facebook",
+            "createdAt":"2017-02-01T19:43:45.900Z",
+            "updatedAt":"2017-04-09T00:47:27.434Z",
+            "sessionTitle":"Media and Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"Chris Cox, Facebook's Chief Product Officer, explores the role media plays on Facebook and what we're learning from our community. Dan Rose, VP of Partnerships, will share how we're partnering with our media partners to deliver business value.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Chris Cox",
+                  "createdAt":"2017-02-01T00:44:12.404Z",
+                  "updatedAt":"2017-02-01T01:23:40.786Z",
+                  "speakerTitle":"Chief Product Officer",
+                  "objectId":"vAwEzZOuB4",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Dan Rose",
+                  "createdAt":"2017-03-08T23:58:01.336Z",
+                  "updatedAt":"2017-03-08T23:58:16.527Z",
+                  "speakerTitle":"VP, Partnerships",
+                  "objectId":"Cw8j6Cjj6S",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"9b1e85da3fd781ef0c6dabd5e57a3ceb_Media and Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/9b1e85da3fd781ef0c6dabd5e57a3ceb_Media%20and%20Facebook.png"
+            },
+            "objectId":"9YmfE1VIoT",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "day":1,
+            "sessionTitle":"Demos, Developer Garage",
+            "sessionSlug":"day-1-demos-dev-garage",
+            "sessionLocation":"Festival Hall",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T18:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-17T00:25:10.695Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"9d469a307ce626cb06383facfddcee8b_demos and garage.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/9d469a307ce626cb06383facfddcee8b_demos%20and%20garage.png"
+            },
+            "objectId":"zzBpTiOKpB",
+            "sortTime":"1492518600",
+            "displayTime":"12:30pm"
+         }
+      ],
+      "1492520400":[  
+         {  
+            "sessionSlug":"how-to-build-a-great-bot",
+            "createdAt":"2017-02-01T17:55:39.774Z",
+            "updatedAt":"2017-04-09T00:27:27.131Z",
+            "sessionTitle":"How to Build a Great Bot",
+            "onMySchedule":false,
+            "sessionDescription":"Understand the features and technology available to developers in Messenger. Engineers and bot developers, join us for a technical deep dive, including best practices on major features, and updates on the latest in the Messenger Platform.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:20:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Mikhail Larionov",
+                  "createdAt":"2017-02-01T00:39:45.161Z",
+                  "updatedAt":"2017-04-18T05:24:20.609Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"v0ZmD1h4CU",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Helen Tsang",
+                  "createdAt":"2017-02-01T00:39:50.583Z",
+                  "updatedAt":"2017-02-02T16:27:16.537Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"UnbobNWfH2",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Messenger"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"6394f49998012e40513884782780b53c_How to Build a Great Bot.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/6394f49998012e40513884782780b53c_How%20to%20Build%20a%20Great%20Bot.png"
+            },
+            "objectId":"GIW7Vmz54E",
+            "sortTime":"1492520400",
+            "displayTime":"1:00pm"
+         }
+      ],
+      "1492522200":[  
+         {  
+            "sessionSlug":"the-evolution-of-react-and-graphql-at-facebook-and-beyond",
+            "createdAt":"2017-01-30T19:10:24.253Z",
+            "updatedAt":"2017-03-07T21:25:01.225Z",
+            "sessionTitle":"The Evolution of React and GraphQL at Facebook and Beyond",
+            "onMySchedule":false,
+            "sessionDescription":"With cutting-edge rendering and data-fetching, React and GraphQL continue to revolutionize modern apps. In this session, we’ll discuss new developments in these frameworks that will help improve performance in the next evolution of app design.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Tom Occhino",
+                  "createdAt":"2017-01-30T19:11:48.282Z",
+                  "updatedAt":"2017-02-02T16:34:19.968Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"Zt0irQTlzB",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Yuzhi Zheng",
+                  "createdAt":"2017-01-30T19:12:57.234Z",
+                  "updatedAt":"2017-02-02T16:35:59.738Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"FHcTUiEY6N",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"e7be563c1e57e96f2cb9a9a8b81302a6_The evolution of react and graphql at facebook and beyond.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/e7be563c1e57e96f2cb9a9a8b81302a6_The%20evolution%20of%20react%20and%20graphql%20at%20facebook%20and%20beyond.png"
+            },
+            "objectId":"KvqMttRNBG",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"bringing-vr-experiences-to-everyone-scripting-producing-and-planning",
+            "createdAt":"2017-02-01T17:52:32.800Z",
+            "updatedAt":"2017-03-07T20:59:29.396Z",
+            "sessionTitle":"Bringing VR Experiences to Everyone: Scripting, Producing and Planning",
+            "onMySchedule":false,
+            "sessionDescription":"Learn how to develop a VR experience, and take a project from creative idea to a piece ready for prime time. Gain best practices and tips and tricks for producing experiences, how to approach acting and directing in VR, and distribution.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:20:00.000Z"
+            },
+            "sessionLocation":"LL",
+            "speakers":[  
+               {  
+                  "speakerName":"Megan Summers",
+                  "createdAt":"2017-02-01T00:38:32.028Z",
+                  "updatedAt":"2017-02-02T19:45:17.202Z",
+                  "speakerTitle":"Global Head of Production",
+                  "objectId":"jY1A8XHkHd",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Yelena Rachitsky",
+                  "createdAt":"2017-02-03T02:32:07.773Z",
+                  "updatedAt":"2017-02-07T19:35:38.944Z",
+                  "speakerTitle":"Executive Producer, Oculus",
+                  "objectId":"3TSRJIBRm5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Julia Sourikoff",
+                  "createdAt":"2017-02-06T04:19:20.134Z",
+                  "updatedAt":"2017-02-06T04:19:28.911Z",
+                  "speakerTitle":"Head of VR, Tool North America",
+                  "objectId":"TFisoUg28I",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Christina Heller",
+                  "createdAt":"2017-02-06T04:19:40.336Z",
+                  "updatedAt":"2017-02-06T04:19:47.024Z",
+                  "speakerTitle":"CEO, VR Playhouse",
+                  "objectId":"lMTQqHKcTS",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Ryan Horrigan",
+                  "createdAt":"2017-02-06T04:19:52.949Z",
+                  "updatedAt":"2017-02-06T04:20:07.543Z",
+                  "speakerTitle":"CCO, Felix and Paul Studios",
+                  "objectId":"YSM8D4gHbG",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"5a914873d87d7cbf1cb843f76db6fdb4_Bringing VR Experiences to Everyone Scripting Producing and Planning.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/5a914873d87d7cbf1cb843f76db6fdb4_Bringing%20VR%20Experiences%20to%20Everyone%20Scripting%20Producing%20and%20Planning.png"
+            },
+            "objectId":"PNpG8Hofw2",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"building-native-games-for-facebook-gameroom",
+            "createdAt":"2017-02-01T19:28:50.097Z",
+            "updatedAt":"2017-04-04T20:38:57.543Z",
+            "sessionTitle":"Building Native Games for Facebook Gameroom",
+            "sessionDescription":"Facebook Gameroom helps you build your business and connect with highly engaged players on a new gaming platform dedicated to gaming. Join us to learn top tips on how to get started with the SDK, publish native games, and take advantage of services like hosting.",
+            "onMySchedule":false,
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:50:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Tejal Parekh",
+                  "createdAt":"2017-02-01T00:40:14.804Z",
+                  "updatedAt":"2017-02-02T16:27:04.062Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"kCmHXvU0o7",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Kevin Thai",
+                  "createdAt":"2017-02-01T00:40:19.720Z",
+                  "updatedAt":"2017-02-02T16:26:58.517Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"EIlKCMFqO5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Games"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"8e3d5abc9627bab4d18ff65f4fc26814_Building Native Games for Facebook Gameroom.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/8e3d5abc9627bab4d18ff65f4fc26814_Building%20Native%20Games%20for%20Facebook%20Gameroom.png"
+            },
+            "objectId":"treTJkBUY7",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"what-is-new-with-newsfeed",
+            "createdAt":"2017-02-01T19:44:44.446Z",
+            "updatedAt":"2017-04-09T00:47:34.871Z",
+            "sessionTitle":"What's New with News Feed",
+            "onMySchedule":false,
+            "sessionDescription":"Adam Mosseri, VP, News Feed, will dive into how News Feed works so publishers can more effectively reach their audiences.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:20:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Adam Mosseri",
+                  "createdAt":"2017-02-01T00:44:48.780Z",
+                  "updatedAt":"2017-02-04T01:58:26.134Z",
+                  "speakerTitle":"VP, News Feed",
+                  "objectId":"bhjAt2FzhG",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"382810d36be8be784ab28d5f310259b9_What s New with News Feed.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/382810d36be8be784ab28d5f310259b9_What%20s%20New%20with%20News%20Feed.png"
+            },
+            "objectId":"PHMmrom0Xi",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"weapons-of-mass-creation",
+            "createdAt":"2017-04-07T21:20:57.425Z",
+            "updatedAt":"2017-04-12T18:52:23.387Z",
+            "sessionTitle":"Weapons of Mass Creation",
+            "sessionDescription":"How does one succeed in creating products for a world that is increasingly divided? Bold ideas are proposed, changes in Southeast Asia, and personal confessions from Khailee Ng's journey from petty crimes to repeatedly creating successful startups in emerging markets.",
+            "hasDetails":true,
+            "sessionLocation":"C",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:50:00.000Z"
+            },
+            "tags":[  
+               "General"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Khailee Ng",
+                  "createdAt":"2017-04-07T21:22:38.451Z",
+                  "updatedAt":"2017-04-07T21:22:45.023Z",
+                  "speakerTitle":"Managing Partner, 500 Startups",
+                  "objectId":"VZUo2OFrf7",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"6983eab9f2cf87367994ffc842876975_Weapons of Mass Creation.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/6983eab9f2cf87367994ffc842876975_Weapons%20of%20Mass%20Creation.png"
+            },
+            "onMySchedule":false,
+            "objectId":"L9PJs66u1v",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionTitle":"Intro to Building Camera Effects with the AR Studio: Live Demo",
+            "createdAt":"2017-04-18T18:51:40.196Z",
+            "updatedAt":"2017-04-18T19:17:31.415Z",
+            "sessionSlug":"intro-to-building-camera-effects-with-the-ar-platform",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook's Camera Effects Platform includes AR Studio, a new tool that lets 3D artists and developers create interactive photo and video effects for the new Facebook camera.  Join this live demo to learn more about AR Studio and what’s involved in building effects, and see an effect be built live on stage.",
+            "hasDetails":true,
+            "sessionLocation":"G",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:20:00.000Z"
+            },
+            "tags":[  
+               "Camera",
+               "Facebook Platform"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Sammi Krug ",
+                  "createdAt":"2017-01-28T01:20:54.443Z",
+                  "updatedAt":"2017-02-02T16:35:46.432Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"81O0qo2POP",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Dolapo Falola",
+                  "createdAt":"2017-01-28T01:21:50.708Z",
+                  "updatedAt":"2017-02-02T16:35:43.243Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"El84gHb4Zk",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"2214ca2f30f047af7f27c2d18be7da7b_Intro to Building Camera Effects with the AR Studio Live Demo.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/2214ca2f30f047af7f27c2d18be7da7b_Intro%20to%20Building%20Camera%20Effects%20with%20the%20AR%20Studio%20Live%20Demo.png"
+            },
+            "objectId":"q80ssxGQGJ",
+            "sortTime":"1492522200",
+            "displayTime":"1:30pm"
+         }
+      ],
+      "1492524000":[  
+         {  
+            "sessionSlug":"what-is-next-for-workplace-by-facebook",
+            "createdAt":"2017-02-01T19:34:33.844Z",
+            "updatedAt":"2017-04-18T18:48:11.076Z",
+            "sessionTitle":"What's Next for Workplace by Facebook?",
+            "onMySchedule":false,
+            "sessionDescription":"Workplace by Facebook is changing the way companies are run and how teams work together. Learn about our new integration APIs for bots, file storage, e-discovery and live video streaming. See how we're automating workflows at Facebook.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Simon Cross",
+                  "createdAt":"2017-02-01T00:42:15.075Z",
+                  "updatedAt":"2017-02-02T16:24:42.491Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"mIV4iSO6Vp",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Joanna Tong",
+                  "createdAt":"2017-02-01T00:42:19.504Z",
+                  "updatedAt":"2017-02-28T18:24:46.120Z",
+                  "speakerTitle":"Growth Manager",
+                  "objectId":"DxDv672iD5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Workplace"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"2daff49db4673f55d4f91baf3ef878ea_Whats Next for Workplace by Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/2daff49db4673f55d4f91baf3ef878ea_Whats%20Next%20for%20Workplace%20by%20Facebook.png"
+            },
+            "objectId":"jQVrfFexTv",
+            "sortTime":"1492524000",
+            "displayTime":"2:00pm"
+         },
+         {  
+            "sessionSlug":"a-startup-journey-from-an-emerging-market",
+            "createdAt":"2017-04-07T21:24:24.579Z",
+            "updatedAt":"2017-04-18T18:53:14.019Z",
+            "sessionTitle":"A Startup Journey from an Emerging Market",
+            "onMySchedule":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"94dfe0e4a0e5861367d25fa1c24cb023_A Startup Journey from an Emerging Market.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/94dfe0e4a0e5861367d25fa1c24cb023_A%20Startup%20Journey%20from%20an%20Emerging%20Market.png"
+            },
+            "sessionDescription":"Gary Urteaga shares his entrepreneurial journey from his initial curiosity about Silicon Valley, various web & app projects, milestones as a startup founder, and his work helping entrepreneurs transform big ideas into startups that solve the humanity's grand challenges.",
+            "hasDetails":true,
+            "sessionLocation":"B",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:20:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Gary Urteag",
+                  "createdAt":"2017-04-07T21:26:36.830Z",
+                  "updatedAt":"2017-04-07T21:26:54.627Z",
+                  "speakerTitle":"VP of Business Development, Fandango Latam",
+                  "objectId":"eeGpZBIPif",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "General"
+            ],
+            "allDay":false,
+            "day":1,
+            "objectId":"iLXcDWB4mi",
+            "sortTime":"1492524000",
+            "displayTime":"2:00pm"
+         }
+      ],
+      "1492525800":[  
+         {  
+            "sessionSlug":"building-high-quality-javascript-tools",
+            "createdAt":"2017-01-30T19:16:18.317Z",
+            "updatedAt":"2017-03-07T21:17:12.033Z",
+            "sessionTitle":"Building High-Quality JavaScript Tools",
+            "onMySchedule":false,
+            "sessionDescription":"Yarn and Jest are popular and widely adopted open source projects. In this session, we’ll present our roadmap for these projects and share our experiences – good and bad – in releasing and maintaining popular open source projects.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:30:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Christoph Pojer ",
+                  "createdAt":"2017-01-30T19:17:31.123Z",
+                  "updatedAt":"2017-02-02T16:34:15.595Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"M8NuKrC2Zt",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Konstantin Raev",
+                  "createdAt":"2017-01-30T19:18:35.201Z",
+                  "updatedAt":"2017-02-03T01:44:04.967Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"EsHcIKIfBK",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"36327a9e5c5eff9c1f7d1c9b2f070450_Building High Quality Javascript Tools.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/36327a9e5c5eff9c1f7d1c9b2f070450_Building%20High%20Quality%20Javascript%20Tools.png"
+            },
+            "objectId":"03UhbI7Ctg",
+            "sortTime":"1492525800",
+            "displayTime":"2:30pm"
+         },
+         {  
+            "sessionSlug":"whats-next-for-instant-games",
+            "createdAt":"2017-02-01T19:27:57.985Z",
+            "updatedAt":"2017-04-10T17:12:51.190Z",
+            "onMySchedule":false,
+            "sessionTitle":"What's Next for Instant Games",
+            "sessionDescription":"Distribution on mobile is exceptionally difficult. Come hear about Facebook’s latest way of solving mobile game distribution in a fun way that brings people together to play and compete across our social platforms.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:20:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Ray Guang",
+                  "createdAt":"2017-02-27T22:20:03.841Z",
+                  "updatedAt":"2017-02-27T22:20:16.684Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"xd7S1yte4z",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Leo Olebe",
+                  "createdAt":"2017-02-01T00:40:30.157Z",
+                  "updatedAt":"2017-02-02T16:26:52.753Z",
+                  "speakerTitle":"Global Gaming Partnerships Director ",
+                  "objectId":"MTevClRRSd",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Games"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"0fbe3e778e426ea9d39c33963a561337_Whats Next for Instant Games.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/0fbe3e778e426ea9d39c33963a561337_Whats%20Next%20for%20Instant%20Games.png"
+            },
+            "objectId":"pfhvHYHaZL",
+            "sortTime":"1492525800",
+            "displayTime":"2:30pm"
+         },
+         {  
+            "sessionSlug":"the-future-of-video-on-facebook",
+            "createdAt":"2017-02-01T19:44:17.992Z",
+            "updatedAt":"2017-04-10T17:02:36.851Z",
+            "sessionTitle":"The Future of Video on Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"Video is playing an increasingly important role in connecting people. Learn how we're bringing video to the forefront of the Facebook experience and harnessing the power of the Facebook community to drive discovery, consumption, discussion, and sharing of video.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:20:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Daniel Danker",
+                  "createdAt":"2017-02-01T00:44:18.450Z",
+                  "updatedAt":"2017-02-02T16:23:10.387Z",
+                  "speakerTitle":"Product Management Director",
+                  "objectId":"a7iqpFPbXv",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Erin Connolly",
+                  "createdAt":"2017-02-01T00:44:42.044Z",
+                  "updatedAt":"2017-02-02T16:23:01.623Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"8vZZ7bX03u",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"f4771692d39a9daac2347c3f97e1824b_The Future of Video on Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/f4771692d39a9daac2347c3f97e1824b_The%20Future%20of%20Video%20on%20Facebook.png"
+            },
+            "objectId":"7jKwjTx37g",
+            "sortTime":"1492525800",
+            "displayTime":"2:30pm"
+         },
+         {  
+            "sessionSlug":"react-vr-build-amazing-vr-experiences-using-react",
+            "createdAt":"2017-02-04T00:59:10.806Z",
+            "updatedAt":"2017-03-03T23:52:31.315Z",
+            "sessionTitle":"React VR: Build amazing VR experiences using React",
+            "onMySchedule":false,
+            "sessionDescription":"Learn how React VR builds upon React Native, and how the supporting layers and libraries interact. We will take you through a sample VR web app built with React VR, and show how easy it is to create immersive experiences across VR, mobile, and web.",
+            "hasDetails":true,
+            "speakers":[  
+               {  
+                  "speakerName":"Andrew Imm",
+                  "createdAt":"2017-02-04T01:00:38.172Z",
+                  "updatedAt":"2017-02-04T01:01:06.552Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"i7CUG3IQR5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Amber Roy",
+                  "createdAt":"2017-02-24T21:38:47.690Z",
+                  "updatedAt":"2017-02-24T21:39:51.879Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"FwXY06UMSs",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "allDay":false,
+            "day":1,
+            "sessionLocation":"LL",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:50:00.000Z"
+            },
+            "ogImage":{  
+               "__type":"File",
+               "name":"b8fb801d41d0357c69e718e38e1ff3ca_React VR Build amazing VR experiences using React.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/b8fb801d41d0357c69e718e38e1ff3ca_React%20VR%20Build%20amazing%20VR%20experiences%20using%20React.png"
+            },
+            "objectId":"ptCe459lYz",
+            "sortTime":"1492525800",
+            "displayTime":"2:30pm"
+         },
+         {  
+            "sessionTitle":"What can be Learned from China's Mobile Economy Boom in Past 5 Years?",
+            "createdAt":"2017-04-07T21:28:17.026Z",
+            "updatedAt":"2017-04-14T22:01:31.454Z",
+            "sessionSlug":"what-can-be-learned-from-chinas-mobile-economy-boom-in-the-last-five-years",
+            "onMySchedule":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"4674a45764c2cac0a5d5608e84a72589_What can be Learned from China Mobile Economy Boom in Past 5 Years.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/4674a45764c2cac0a5d5608e84a72589_What%20can%20be%20Learned%20from%20China%20Mobile%20Economy%20Boom%20in%20Past%205%20Years.png"
+            },
+            "sessionDescription":"There’s been 110 billion-dollar tech startups since 2010, and behind them lies the whole route of China's mobile economy boom. With a highly connected and digitalized social environment, it’s possible to fill big gaps of user demands in a more efficient and intelligent way - a pattern that can be repeated.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T14:50:00.000Z"
+            },
+            "sessionLocation":"G",
+            "tags":[  
+               "General"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Jack (Peng) Zhang",
+                  "createdAt":"2017-04-07T21:30:53.700Z",
+                  "updatedAt":"2017-04-07T21:31:03.322Z",
+                  "speakerTitle":"Founder & President, GeekPark",
+                  "objectId":"Gj6OgSM21x",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "objectId":"5PMFP9wkUf",
+            "sortTime":"1492525800",
+            "displayTime":"2:30pm"
+         }
+      ],
+      "1492527600":[  
+         {  
+            "sessionSlug":"making-great-camera-effects",
+            "createdAt":"2017-01-28T01:24:12.770Z",
+            "updatedAt":"2017-04-18T19:19:16.501Z",
+            "sessionTitle":"Making Great Camera Effects",
+            "onMySchedule":false,
+            "sessionDescription":"With AI that transforms images, Facebook’s Camera Effects Platform lets you create animated masks, interactive overlays, frames, and other effects that people can apply to their photos and videos in the Facebook camera. Learn best technical and design practices for creating effects using this innovative technology, and see examples of successful effects.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:50:00.000Z"
+            },
+            "sessionLocation":"G",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:00:00.000Z"
+            },
+            "tags":[  
+               "Camera"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Volodymyr Giginiak",
+                  "createdAt":"2017-01-28T01:27:49.292Z",
+                  "updatedAt":"2017-02-02T16:35:36.751Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"rZmGieO6YB",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Stef Smet",
+                  "createdAt":"2017-01-28T01:30:16.022Z",
+                  "updatedAt":"2017-02-02T16:35:23.744Z",
+                  "speakerTitle":"Product Designer",
+                  "objectId":"2YQ5FKTwHm",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"296643cca9aad196bbd3534324c52049_Making Great Camera Effects.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/296643cca9aad196bbd3534324c52049_Making%20Great%20Camera%20Effects.png"
+            },
+            "objectId":"62yCeJMvAf",
+            "sortTime":"1492527600",
+            "displayTime":"3:00pm"
+         },
+         {  
+            "sessionSlug":"the-making-of-facebook-spaces",
+            "createdAt":"2017-02-01T17:53:53.459Z",
+            "updatedAt":"2017-04-18T18:25:59.762Z",
+            "sessionTitle":"The Making of Facebook Spaces",
+            "onMySchedule":false,
+            "sessionDescription":"A behind-the-scenes look at how we built Facebook Spaces, the new immersive social VR experience from Facebook. We’ll walk through major product features and how they were developed, sharing the lessons we learned about how to create compelling social experiences in VR.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:50:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Mike Booth",
+                  "createdAt":"2017-02-01T00:39:03.157Z",
+                  "updatedAt":"2017-02-02T16:27:53.575Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"HAWUx0pdKM",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "sessionLocation":"LL",
+            "ogImage":{  
+               "__type":"File",
+               "name":"d4107498aac998a314d11c5e294d7dd2_Creating Social Presence in VR.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/d4107498aac998a314d11c5e294d7dd2_Creating%20Social%20Presence%20in%20VR.png"
+            },
+            "objectId":"ssvW00hsxg",
+            "sortTime":"1492527600",
+            "displayTime":"3:00pm"
+         },
+         {  
+            "sessionSlug":"building-custom-integrations-for-workplace-by-facebook",
+            "createdAt":"2017-02-01T19:35:07.571Z",
+            "updatedAt":"2017-04-18T18:25:59.756Z",
+            "sessionTitle":"Building Custom Integrations for Workplace by Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"Workplace by Facebook can revolutionize the way your company works together. Join us for a technical deep dive and a first look at the new integrations announced for bots in groups and Work Chat, and tips on how to build more effective bots.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Astha Agarwal",
+                  "createdAt":"2017-02-01T00:42:28.737Z",
+                  "updatedAt":"2017-02-02T16:24:34.806Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"dvZcC3aRpi",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Connor Treacy",
+                  "createdAt":"2017-02-01T00:42:37.471Z",
+                  "updatedAt":"2017-02-02T16:24:30.622Z",
+                  "speakerTitle":"Partner Engineer",
+                  "objectId":"gm9xKEyHXO",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Workplace"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"b5a12b506b5f315846ed46cf869c950c_Building Custom Integrations for Workplace by Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/b5a12b506b5f315846ed46cf869c950c_Building%20Custom%20Integrations%20for%20Workplace%20by%20Facebook.png"
+            },
+            "objectId":"hMgMnkw9h9",
+            "sortTime":"1492527600",
+            "displayTime":"3:00pm"
+         }
+      ],
+      "1492529400":[  
+         {  
+            "sessionSlug":"understanding-gaming-video-on-facebook",
+            "createdAt":"2017-02-01T19:29:24.895Z",
+            "updatedAt":"2017-04-09T00:44:54.756Z",
+            "sessionTitle":"Understanding Gaming Video on Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"Who streams their gameplay live, and why? Join a former pro gamer and veteran streamer to explore why people stream, and who’s watching. If you’ve thought about adding live streaming to your game, this talk is for you.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:50:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Stephen Ellis",
+                  "createdAt":"2017-02-01T00:40:25.478Z",
+                  "updatedAt":"2017-04-14T19:10:50.411Z",
+                  "speakerTitle":"Strategic Partnership Manager",
+                  "objectId":"E5wDD4LZQP",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Guy Cross",
+                  "createdAt":"2017-04-08T05:53:49.589Z",
+                  "updatedAt":"2017-04-14T19:10:27.945Z",
+                  "speakerTitle":"Strategic Partnerships, Americas",
+                  "objectId":"EafPgAF6yv",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Games"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"3a12eedef5b1b9e57dde32be2f7275c3_Understanding Gaming Video on Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/3a12eedef5b1b9e57dde32be2f7275c3_Understanding%20Gaming%20Video%20on%20Facebook.png"
+            },
+            "objectId":"CTWQCA4iK1",
+            "sortTime":"1492529400",
+            "displayTime":"3:30pm"
+         },
+         {  
+            "sessionSlug":"video-content-that-connects",
+            "createdAt":"2017-02-01T19:45:27.187Z",
+            "updatedAt":"2017-04-09T00:47:46.359Z",
+            "sessionTitle":"Video Content That Connects",
+            "onMySchedule":false,
+            "sessionDescription":"In a world where video is the primary format, what kind of content works well? We'll talk about the types of creative that drive community and engagement and hear from special guests on how they think about this.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Ricky Van Veen",
+                  "createdAt":"2017-03-08T23:55:30.305Z",
+                  "updatedAt":"2017-03-08T23:56:11.494Z",
+                  "speakerTitle":"Director, Media Partnerships",
+                  "objectId":"zfswDPKol5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Jason Blum",
+                  "createdAt":"2017-04-07T21:32:24.401Z",
+                  "updatedAt":"2017-04-07T21:32:36.233Z",
+                  "speakerTitle":"Founder, Blumhouse Productions",
+                  "objectId":"Rl4EA66Cy2",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Simon Fuller",
+                  "createdAt":"2017-04-07T21:32:45.667Z",
+                  "updatedAt":"2017-04-07T21:32:57.537Z",
+                  "speakerTitle":"Founder and CEO, XIX Entertainment",
+                  "objectId":"E26yv5aWoc",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Erika Nardini",
+                  "createdAt":"2017-04-07T21:33:05.217Z",
+                  "updatedAt":"2017-04-07T21:33:12.033Z",
+                  "speakerTitle":"CEO, Barstool Sports",
+                  "objectId":"A9WZ1X2zr2",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"751683350079586d07ac9e995b5b1999_Video Content That Connects.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/751683350079586d07ac9e995b5b1999_Video%20Content%20That%20Connects.png"
+            },
+            "objectId":"7QV8fCkdon",
+            "sortTime":"1492529400",
+            "displayTime":"3:30pm"
+         },
+         {  
+            "sessionSlug":"hack-compilations-at-scale",
+            "createdAt":"2017-03-02T20:23:48.571Z",
+            "updatedAt":"2017-03-20T21:49:48.640Z",
+            "sessionTitle":"Hack: Compilations @ Scale",
+            "onMySchedule":false,
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:50:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T15:30:00.000Z"
+            },
+            "sessionLocation":"F",
+            "sessionDescription":"Learn about the unique scaling challenges encountered when developing Hack, the programming language behind Facebook.com. We’ll share the story of how we migrated from millions of lines of PHP, engineering through the problems that only come with a rapidly evolving codebase",
+            "speakers":[  
+               {  
+                  "speakerName":"Dwayne Reeves",
+                  "createdAt":"2017-03-02T20:27:02.366Z",
+                  "updatedAt":"2017-03-02T20:27:33.429Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"i1t8UO1bun",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "allDay":false,
+            "day":1,
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"bb30d78bec4b51c3c39cd64f63e167ba_hack.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/bb30d78bec4b51c3c39cd64f63e167ba_hack.png"
+            },
+            "objectId":"dLcBMGYX3y",
+            "sortTime":"1492529400",
+            "displayTime":"3:30pm"
+         }
+      ],
+      "1492531200":[  
+         {  
+            "sessionSlug":"moving-faster-optimizing-developer-experiences-of-facebook-engineers",
+            "createdAt":"2017-01-30T20:58:57.641Z",
+            "updatedAt":"2017-04-10T17:02:26.078Z",
+            "sessionTitle":"Moving Faster: Optimizing Developer Experiences of Facebook Engineers",
+            "onMySchedule":false,
+            "sessionDescription":"At Facebook, we help developers move fast by providing them with powerful tools. We'll take a look at how Facebook optimizes developer workflows today, and will explore the use of deep learning to power the next wave of advances.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:00:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Katie Coons",
+                  "createdAt":"2017-03-16T20:19:03.812Z",
+                  "updatedAt":"2017-03-16T20:19:09.697Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"EcV03u1cMb",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Kasper Kopec",
+                  "createdAt":"2017-03-22T20:54:26.603Z",
+                  "updatedAt":"2017-03-22T20:54:36.030Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"Tniiv4EcDS",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"8a603cc3d9449f124d7e2eadc10064da_Moving Faster Optimizing Developer Experiences of Facebook Engineers.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/8a603cc3d9449f124d7e2eadc10064da_Moving%20Faster%20Optimizing%20Developer%20Experiences%20of%20Facebook%20Engineers.png"
+            },
+            "objectId":"XsFQW7Co9w",
+            "sortTime":"1492531200",
+            "displayTime":"4:00pm"
+         },
+         {  
+            "sessionSlug":"explore-the-power-of-the-places-graph",
+            "createdAt":"2017-01-25T15:28:00.196Z",
+            "updatedAt":"2017-04-09T00:40:29.117Z",
+            "sessionTitle":"Explore the Power of the Places Graph",
+            "sessionDescription":"Power your app with the Places Graph. We're providing free access to the same place data that powers Facebook, Instagram, and Messenger. Learn how to use data about 140M+ places around the world to create location aware app experiences.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:00:00.000Z"
+            },
+            "sessionLocation":"G",
+            "tags":[  
+               "Facebook Platform"
+            ],
+            "speakers":[  
+               {  
+                  "speakerName":"Matias Castello",
+                  "createdAt":"2017-02-01T19:51:49.833Z",
+                  "updatedAt":"2017-02-02T16:24:07.481Z",
+                  "speakerTitle":"Partner Manager",
+                  "objectId":"m0smbNeOs3",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Aileen Chen",
+                  "createdAt":"2017-02-03T01:57:47.498Z",
+                  "updatedAt":"2017-02-03T01:57:54.577Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"hvCRXdl9zU",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "onMySchedule":false,
+            "allDay":false,
+            "day":1,
+            "ogImage":{  
+               "__type":"File",
+               "name":"4a4615a3b429fad7b31fe3ed77df18db_Explore the Power of the Places Graph.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/4a4615a3b429fad7b31fe3ed77df18db_Explore%20the%20Power%20of%20the%20Places%20Graph.png"
+            },
+            "objectId":"fFE7A6wKtQ",
+            "sortTime":"1492531200",
+            "displayTime":"4:00pm"
+         },
+         {  
+            "sessionSlug":"create-fullscreen-experiences-on-mobile-with-canvas",
+            "createdAt":"2017-02-01T19:33:59.646Z",
+            "updatedAt":"2017-04-18T20:36:57.739Z",
+            "sessionTitle":"Create Fullscreen Experiences On Mobile with Canvas",
+            "onMySchedule":false,
+            "sessionDescription":"Canvas is an immersive platform that makes it simple to create fullscreen, engaging experiences on mobile. In this session, we’ll share tips for easily creating your own Canvas, along with highlights from partner integrations on the Canvas API.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Rachel Tucker",
+                  "createdAt":"2017-02-01T00:41:48.658Z",
+                  "updatedAt":"2017-02-02T16:24:52.324Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"YBDzBiyq18",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Rohan Kuruvilla",
+                  "createdAt":"2017-02-01T00:41:56.152Z",
+                  "updatedAt":"2017-02-02T16:24:48.198Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"2BGgKluffA",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "day":1,
+            "allDay":false,
+            "objectId":"DJjFt4lHCB",
+            "sortTime":"1492531200",
+            "displayTime":"4:00pm"
+         },
+         {  
+            "sessionSlug":"international-research-gaining-cultural-context-for-scalable-solutions",
+            "createdAt":"2017-02-01T21:56:51.301Z",
+            "updatedAt":"2017-04-12T19:07:50.810Z",
+            "sessionTitle":"International Research: Gaining Cultural Context for Scalable Solutions.",
+            "onMySchedule":false,
+            "sessionDescription":"Building products for unfamiliar markets is challenging, and there are many factors to take into consideration before getting started. Hear the process the Facebook Research team follows to guide product development for new markets.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "tags":[  
+               "Research"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Megan Witmer",
+                  "createdAt":"2017-02-01T00:42:04.104Z",
+                  "updatedAt":"2017-02-02T16:38:29.364Z",
+                  "speakerTitle":"Research Manager",
+                  "objectId":"FUnvdRcwUO",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionLocation":"B",
+            "ogImage":{  
+               "__type":"File",
+               "name":"5837693e33af8a8b33e5f251d2f19658_International Research Gaining Cultural Context for Scalable Solutions..png",
+               "url":"https://f82017-parse.s3.amazonaws.com/5837693e33af8a8b33e5f251d2f19658_International%20Research%20Gaining%20Cultural%20Context%20for%20Scalable%20Solutions..png"
+            },
+            "objectId":"gDCc1pFSgc",
+            "sortTime":"1492531200",
+            "displayTime":"4:00pm"
+         },
+         {  
+            "sessionSlug":"early-lessons-in-social-vr-from-oculus-rooms",
+            "createdAt":"2017-02-22T04:52:06.461Z",
+            "updatedAt":"2017-03-07T21:17:31.559Z",
+            "sessionTitle":"Early Lessons in Social VR from Oculus Rooms",
+            "onMySchedule":false,
+            "sessionDescription":"We’ve already learned a lot since launching Oculus Rooms. We’ll share insights from our research and observations on what works, what doesn’t, and how people interact together in Rooms — plus the latest features we’ve added to the experience.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:20:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:00:00.000Z"
+            },
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Mike LeBeau",
+                  "createdAt":"2017-02-22T04:47:23.103Z",
+                  "updatedAt":"2017-02-22T04:47:32.763Z",
+                  "speakerTitle":"Product Manager, Oculus",
+                  "objectId":"nWXsSJCXqe",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionLocation":"LL",
+            "ogImage":{  
+               "__type":"File",
+               "name":"1aefdcb332769cdd96d4405d67b9155b_Early Lessons in Social VR from Oculus Rooms.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/1aefdcb332769cdd96d4405d67b9155b_Early%20Lessons%20in%20Social%20VR%20from%20Oculus%20Rooms.png"
+            },
+            "objectId":"wUm08MMFry",
+            "sortTime":"1492531200",
+            "displayTime":"4:00pm"
+         }
+      ],
+      "1492533000":[  
+         {  
+            "sessionSlug":"best-practices-for-integrating-facebook-technologies-into-your-product",
+            "createdAt":"2017-01-25T15:25:56.562Z",
+            "updatedAt":"2017-04-09T00:40:19.903Z",
+            "onMySchedule":false,
+            "sessionDescription":"Wondering how you can boost your productivity and maximize your impact as a developer? Come to this session to learn about best practices and new updates to the Graph API and developer tools.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:20:00.000Z"
+            },
+            "sessionLocation":"B",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "tags":[  
+               "Facebook Platform"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Claire Fang",
+                  "createdAt":"2017-02-03T02:23:38.709Z",
+                  "updatedAt":"2017-02-03T02:26:22.101Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"7m3hy3bYno",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Steven Elia",
+                  "createdAt":"2017-02-03T02:26:50.039Z",
+                  "updatedAt":"2017-02-04T01:44:21.673Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"HsuYC7YLhs",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionTitle":"Best Practices for Integrating Facebook Technologies into Your Product",
+            "ogImage":{  
+               "__type":"File",
+               "name":"bbc1181218b9ebb4c80f8a9e07f806a3_best practices for integrating facebook technologies into your product.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/bbc1181218b9ebb4c80f8a9e07f806a3_best%20practices%20for%20integrating%20facebook%20technologies%20into%20your%20product.png"
+            },
+            "objectId":"rk94Vad8pM",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         },
+         {  
+            "sessionSlug":"facebook-login-and-account-kit-sign-up-landscape-trends-and-product-updates",
+            "createdAt":"2017-01-28T01:38:32.165Z",
+            "updatedAt":"2017-04-10T22:52:52.407Z",
+            "sessionTitle":"Facebook Login and Account Kit: Sign Up Landscape, Trends, and Product Updates",
+            "onMySchedule":false,
+            "sessionDescription":"Over the last year, we've made product improvements to Facebook Login and Account Kit based on insights on consumer preferences and market trends. Learn about the impact these could have on your business along with coding demos on how to integrate these exciting features into your apps.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:20:00.000Z"
+            },
+            "sessionLocation":"G",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "tags":[  
+               "Facebook Platform",
+               "Growth"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Olga Kuznetsova",
+                  "createdAt":"2017-01-28T01:39:53.602Z",
+                  "updatedAt":"2017-02-02T16:35:09.319Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"BqMA8qsAZX",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Raman Hansi ",
+                  "createdAt":"2017-01-28T01:42:49.864Z",
+                  "updatedAt":"2017-03-31T19:48:31.406Z",
+                  "speakerTitle":"UX Research",
+                  "objectId":"7zOIyFEiL5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"bca490e9b5895fb84884e7568b75f4bf_Facebook Login and Account Kit.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/bca490e9b5895fb84884e7568b75f4bf_Facebook%20Login%20and%20Account%20Kit.png"
+            },
+            "objectId":"sdr8IpEe1E",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         },
+         {  
+            "sessionSlug":"measure-the-complete-customer-journey-with-facebook-analytics",
+            "createdAt":"2017-01-30T18:41:49.174Z",
+            "updatedAt":"2017-04-18T18:25:59.765Z",
+            "sessionTitle":"Measure the Complete Customer Journey with Facebook Analytics",
+            "onMySchedule":false,
+            "sessionDescription":"People use multiple channels across different devices throughout their customer journey. Learn how Facebook Analytics can help you simplify measurement with powerful omni-channel analytics.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:20:00.000Z"
+            },
+            "sessionLocation":"LL",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "tags":[  
+               "Analytics",
+               "Facebook Platform"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Josh Twist",
+                  "createdAt":"2017-01-30T18:44:43.392Z",
+                  "updatedAt":"2017-02-02T16:34:31.418Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"J6oFCKP0XO",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"6ed24862984f442edf2427db00b2f841_Measure the Complete Customer Journey with Facebook Analytics for Apps .png",
+               "url":"https://f82017-parse.s3.amazonaws.com/6ed24862984f442edf2427db00b2f841_Measure%20the%20Complete%20Customer%20Journey%20with%20Facebook%20Analytics%20for%20Apps%20.png"
+            },
+            "objectId":"votYguKNaG",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         },
+         {  
+            "sessionSlug":"improving-android-accessibility-with-stetho",
+            "createdAt":"2017-02-01T17:47:50.165Z",
+            "updatedAt":"2017-03-20T21:49:01.833Z",
+            "sessionTitle":"Improving Android Accessibility with Stetho",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook is committed to accessibility. In this session we’ll discuss how we’re helping engineers identify problem areas for accessibility and implement fixes with Stetho, our open source Android debugging tool.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:50:00.000Z"
+            },
+            "sessionLocation":"F",
+            "speakers":[  
+               {  
+                  "speakerName":"Brett Lavalla",
+                  "createdAt":"2017-02-01T00:37:37.299Z",
+                  "updatedAt":"2017-02-02T16:32:52.199Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"VLnVUelZ1k",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"db45d4df8801b5c3bab2aab0ee7abf55_Improving Android Accessibility with Stetho.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/db45d4df8801b5c3bab2aab0ee7abf55_Improving%20Android%20Accessibility%20with%20Stetho.png"
+            },
+            "objectId":"qM9EXUHBUh",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         },
+         {  
+            "sessionSlug":"the-future-of-monetizing-with-audience-network",
+            "createdAt":"2017-02-01T19:30:49.139Z",
+            "updatedAt":"2017-04-09T00:45:10.980Z",
+            "onMySchedule":false,
+            "sessionTitle":"The Future of Monetizing with Audience Network ",
+            "sessionDescription":"The monetization ecosystem is ever changing and complex, leaving mobile developers and publishers struggling to find the right solutions to maximize monetization and user experience. Learn how Audience Network is helping developers and publishers tackle these challenges today, and into the future.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Maya Cahier",
+                  "createdAt":"2017-02-01T00:40:38.812Z",
+                  "updatedAt":"2017-02-02T16:26:02.959Z",
+                  "speakerTitle":"Publisher Solutions Manager",
+                  "objectId":"ZuASEHdPFX",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Evan Piwowarski",
+                  "createdAt":"2017-02-01T00:40:52.235Z",
+                  "updatedAt":"2017-02-02T16:25:57.746Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"q5qj4po44O",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":1,
+            "allDay":false,
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"9102aeb5aa6e96aca4641074e404f51d_The Future of Monetizing with Audience Network.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/9102aeb5aa6e96aca4641074e404f51d_The%20Future%20of%20Monetizing%20with%20Audience%20Network.png"
+            },
+            "objectId":"khwHmNUKz0",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         },
+         {  
+            "sessionSlug":"monetizing-in-a-video-first-environment",
+            "createdAt":"2017-02-01T19:46:33.946Z",
+            "updatedAt":"2017-04-09T00:47:53.503Z",
+            "sessionTitle":"Monetizing in a Video-First Environment",
+            "onMySchedule":false,
+            "sessionDescription":"Our partners are investing heavily in video. We want to help them achieve a sustainable return on that investment, both on Facebook and on their own sites. Executives from three different publishers will talk about what they've learned in testing some of our latest monetization features.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T16:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:20:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Kate Orseth",
+                  "createdAt":"2017-03-22T18:41:32.859Z",
+                  "updatedAt":"2017-03-22T18:43:43.291Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"xIAEC6Ol5M",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Scott Hershkowitz",
+                  "createdAt":"2017-02-01T00:45:51.311Z",
+                  "updatedAt":"2017-02-02T16:22:13.148Z",
+                  "speakerTitle":"Partnerships Director",
+                  "objectId":"Qh0lPlOjMr",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Nicholas Carlson",
+                  "createdAt":"2017-04-07T21:33:40.140Z",
+                  "updatedAt":"2017-04-07T21:33:50.791Z",
+                  "speakerTitle":"Editor-in-Chief, Insider",
+                  "objectId":"hBWgXHb9X5",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Oren Katzeff",
+                  "createdAt":"2017-04-07T21:33:58.521Z",
+                  "updatedAt":"2017-04-07T21:34:10.610Z",
+                  "speakerTitle":"Head of Programming, Tastemade",
+                  "objectId":"FD073NXo8w",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Athan Stephanopoulos",
+                  "createdAt":"2017-04-07T21:34:29.947Z",
+                  "updatedAt":"2017-04-07T21:34:36.576Z",
+                  "speakerTitle":"President, NowThis",
+                  "objectId":"mfEQH1VvXP",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"79cd03c4734de3ea0ad67d0bc1201183_Monetizing in a Video-First Environment.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/79cd03c4734de3ea0ad67d0bc1201183_Monetizing%20in%20a%20Video-First%20Environment.png"
+            },
+            "objectId":"75RctNat0O",
+            "sortTime":"1492533000",
+            "displayTime":"4:30pm"
+         }
+      ],
+      "1492534800":[  
+         {  
+            "sessionTitle":"How We Shipped Reactions",
+            "createdAt":"2017-02-01T00:30:02.588Z",
+            "updatedAt":"2017-03-03T23:48:19.796Z",
+            "sessionDescription":"Like. Love. Haha. Wow. Sad. Angry. Join engineers who worked on Facebook's reactions for an inside peek at how Facebook launches a brand new feature to the world.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:20:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:00:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Ergin Erant",
+                  "createdAt":"2017-03-02T20:13:59.591Z",
+                  "updatedAt":"2017-03-02T20:14:32.279Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"FFCTEitGt9",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Mark Peng",
+                  "createdAt":"2017-03-02T20:14:45.348Z",
+                  "updatedAt":"2017-03-02T20:14:59.492Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"foHZY1PQGB",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":1,
+            "sessionSlug":"how-we-shipped-reactions",
+            "onMySchedule":false,
+            "sessionLocation":"F",
+            "ogImage":{  
+               "__type":"File",
+               "name":"a0a5a1e17fee61abdc80d0b5a11b6d03_How We Shipped Reactions.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/a0a5a1e17fee61abdc80d0b5a11b6d03_How%20We%20Shipped%20Reactions.png"
+            },
+            "objectId":"o4RH7pBIRg",
+            "sortTime":"1492534800",
+            "displayTime":"5:00pm"
+         },
+         {  
+            "sessionSlug":"thinking-beyond-the-install",
+            "createdAt":"2017-02-01T19:33:24.647Z",
+            "updatedAt":"2017-04-18T20:34:59.529Z",
+            "sessionTitle":"Thinking Beyond the Install",
+            "onMySchedule":false,
+            "sessionDescription":"Maintaining a connection with high-value customers after download is key to your app’s success. Learn how mobile app ads’ sophisticated targeting and optimization help you reach these customers and grow your app.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"David Park ",
+                  "createdAt":"2017-03-24T18:10:52.168Z",
+                  "updatedAt":"2017-03-24T18:10:56.816Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"CEn5moXAyN",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Christine De Martini",
+                  "createdAt":"2017-02-01T00:41:43.717Z",
+                  "updatedAt":"2017-02-02T16:24:58.871Z",
+                  "speakerTitle":"Product Marketing Lead",
+                  "objectId":"Imekbt3Cpp",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"ce8c03a20f2c4b56d4d16d2442e9ad55_Thinking Beyond the Install.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/ce8c03a20f2c4b56d4d16d2442e9ad55_Thinking%20Beyond%20the%20Install.png"
+            },
+            "objectId":"gWe4aqopmR",
+            "sortTime":"1492534800",
+            "displayTime":"5:00pm"
+         }
+      ],
+      "1492536600":[  
+         {  
+            "sessionSlug":"privacy-design-and-dialogue",
+            "createdAt":"2017-02-01T19:35:51.329Z",
+            "updatedAt":"2017-04-09T00:46:49.186Z",
+            "sessionTitle":"Privacy: Design and Dialogue",
+            "onMySchedule":false,
+            "sessionDescription":"Privacy by design is a key part of the entire product lifecycle at Facebook. We'll discuss the role privacy plays in product development, and how we communicate about it on an ongoing basis.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:50:00.000Z"
+            },
+            "sessionLocation":"B",
+            "speakers":[  
+               {  
+                  "speakerName":"Ayana Miller",
+                  "createdAt":"2017-02-01T00:42:46.543Z",
+                  "updatedAt":"2017-02-01T01:18:08.898Z",
+                  "speakerTitle":"Privacy Program Manager",
+                  "objectId":"vSZBERzdoP",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Jeremy Philip Galen",
+                  "createdAt":"2017-02-01T00:42:42.128Z",
+                  "updatedAt":"2017-03-28T17:21:34.191Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"KAtw8gADAO",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "General"
+            ],
+            "day":1,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"1ddcbb00440311bb0ff641d7f8ded9bf_Privacy Design and Dialogue.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/1ddcbb00440311bb0ff641d7f8ded9bf_Privacy%20Design%20and%20Dialogue.png"
+            },
+            "objectId":"CSuAD14HO2",
+            "sortTime":"1492536600",
+            "displayTime":"5:30pm"
+         },
+         {  
+            "sessionSlug":"creative-ways-to-conduct-research",
+            "createdAt":"2017-02-01T21:58:51.943Z",
+            "updatedAt":"2017-04-09T00:46:21.905Z",
+            "sessionTitle":"Creative Ways to Conduct Research",
+            "onMySchedule":false,
+            "sessionDescription":"Insights from research guide good business decisions. In this session, we’ll discuss creative methods used at Facebook for conducting research to help you get deeper, more engaging insights.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:50:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Jill Christ ",
+                  "createdAt":"2017-02-01T00:42:09.760Z",
+                  "updatedAt":"2017-02-01T01:15:40.722Z",
+                  "speakerTitle":"Research Manager",
+                  "objectId":"IFifCn4I43",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Research"
+            ],
+            "allDay":false,
+            "day":1,
+            "sessionLocation":"LL",
+            "ogImage":{  
+               "__type":"File",
+               "name":"8875bd362d579fc231cd334e3fe76433_Creative Ways to Conduct Research.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/8875bd362d579fc231cd334e3fe76433_Creative%20Ways%20to%20Conduct%20Research.png"
+            },
+            "objectId":"zmIwmecZjC",
+            "sortTime":"1492536600",
+            "displayTime":"5:30pm"
+         },
+         {  
+            "sessionSlug":"account-recovery-beyond-email",
+            "createdAt":"2017-02-04T03:00:00.018Z",
+            "updatedAt":"2017-04-10T18:32:01.436Z",
+            "sessionTitle":"Account Recovery: Beyond Email",
+            "onMySchedule":false,
+            "sessionDescription":"Maintaining account security goes beyond the login process: learn how trusted identities by sites like Facebook can make account recovery more efficient, more secure, and easier to manage for developers—all while putting privacy front and center.\n",
+            "hasDetails":true,
+            "sessionLocation":"G",
+            "tags":[  
+               "General"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Brad Hill",
+                  "createdAt":"2017-02-04T03:02:05.402Z",
+                  "updatedAt":"2017-02-04T03:02:13.827Z",
+                  "speakerTitle":"Security Engineer",
+                  "objectId":"A4V4a09Ip9",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:50:00.000Z"
+            },
+            "ogImage":{  
+               "__type":"File",
+               "name":"51a90892742748bfd12b3a10fc956171_Account Recovery Beyond Email.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/51a90892742748bfd12b3a10fc956171_Account%20Recovery%20Beyond%20Email.png"
+            },
+            "objectId":"kPzEfPYxxh",
+            "sortTime":"1492536600",
+            "displayTime":"5:30pm"
+         },
+         {  
+            "sessionSlug":"building-offline-experiences-for-instagram",
+            "createdAt":"2017-02-16T00:28:59.593Z",
+            "updatedAt":"2017-03-20T21:46:48.195Z",
+            "sessionTitle":"Building Offline Experiences for Instagram",
+            "onMySchedule":false,
+            "sessionDescription":"Instagram’s mission is to help people connect through shared experiences. 80% of the community is outside of the US, and as our platform grows, Instagram must perform across an increasing variety of devices and networks to keep people connected. For people in low-bandwidth regions, we’ve begun testing offline experiences that keep the Instagram experience consistent and let people consume and engage with content, even if they don’t have service. In this talk we’ll introduce some of our initial explorations into offline features, and share learnings you can apply to your own apps.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:50:00.000Z"
+            },
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:30:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source",
+               "Instagram"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Hendri",
+                  "createdAt":"2017-02-01T00:36:37.495Z",
+                  "updatedAt":"2017-02-02T16:31:25.550Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"4s2sMwoAEx",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionLocation":"F",
+            "ogImage":{  
+               "__type":"File",
+               "name":"3e28e39c58324504adc9a5c88ef5daa5_Building Offline Experiences for Instagram.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/3e28e39c58324504adc9a5c88ef5daa5_Building%20Offline%20Experiences%20for%20Instagram.png"
+            },
+            "objectId":"xW3CdEpFpT",
+            "sortTime":"1492536600",
+            "displayTime":"5:30pm"
+         },
+         {  
+            "sessionTitle":"Fireside Chat: The Future of Media",
+            "createdAt":"2017-03-22T18:47:41.705Z",
+            "updatedAt":"2017-04-14T20:09:02.407Z",
+            "sessionSlug":"fireside-chat-the-future-of-media",
+            "sessionDescription":"Join us for a discussion on the future of media with Fidji Simo, VP of Media Products at Facebook, and James Gunn, Writer and Director, Guardians of the Galaxy Vol. 2.",
+            "hasDetails":true,
+            "sessionLocation":"A",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T17:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T18:20:00.000Z"
+            },
+            "tags":[  
+               "Media & Publishers"
+            ],
+            "allDay":false,
+            "day":1,
+            "speakers":[  
+               {  
+                  "speakerName":"Fidji Simo",
+                  "createdAt":"2017-02-01T00:43:57.879Z",
+                  "updatedAt":"2017-04-07T21:15:29.858Z",
+                  "speakerTitle":"VP Media Products",
+                  "objectId":"Tr79CxcGe8",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"James Gunn",
+                  "createdAt":"2017-04-14T20:08:14.083Z",
+                  "updatedAt":"2017-04-14T20:08:32.577Z",
+                  "speakerTitle":"Writer and Director, Guardians of the Galaxy Vol. 2",
+                  "objectId":"2V5ntYXDtU",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "onMySchedule":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"83f86ad7f1a28c2b6ca108a85cc5e6ed_Fireside Chat The Future of Media.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/83f86ad7f1a28c2b6ca108a85cc5e6ed_Fireside%20Chat%20The%20Future%20of%20Media.png"
+            },
+            "objectId":"mOXdztvoqV",
+            "sortTime":"1492536600",
+            "displayTime":"5:30pm"
+         }
+      ],
+      "1492538400":[  
+         {  
+            "day":1,
+            "sessionTitle":"Happy Hour",
+            "sessionSlug":"day-1-happy-hour",
+            "sessionLocation":"LL",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T18:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T19:00:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-10T23:56:59.658Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"6a34fe9481b02af9698db05b10afcaa6_Happy hour.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/6a34fe9481b02af9698db05b10afcaa6_Happy%20hour.png"
+            },
+            "objectId":"eFDVDTjQ6r",
+            "sortTime":"1492538400",
+            "displayTime":"6:00pm"
+         }
+      ],
+      "1492542000":[  
+         {  
+            "day":1,
+            "sessionTitle":"After Party",
+            "sessionSlug":"day-1-after-party",
+            "sessionLocation":"City National Civic",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T19:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-18T21:00:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-10T23:59:13.362Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"39a95b3555186b5396661ecbb323aa49_After Party.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/39a95b3555186b5396661ecbb323aa49_After%20Party.png"
+            },
+            "objectId":"lekWy3ayWC",
+            "sortTime":"1492542000",
+            "displayTime":"7:00pm"
+         }
+      ]
+   },
+   {  
+      "1492588800":[  
+         {  
+            "day":2,
+            "sessionTitle":"Breakfast",
+            "sessionSlug":"day-2-breakfast",
+            "sessionLocation":"LL",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T08:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T10:00:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-03-07T21:23:27.990Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"7c755ea82fe7cdb5c5449c780a732d59_Breakfast.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/7c755ea82fe7cdb5c5449c780a732d59_Breakfast.png"
+            },
+            "objectId":"NfZzdg1bSM",
+            "sortTime":"1492588800",
+            "displayTime":"8:00am"
+         },
+         {  
+            "day":2,
+            "sessionTitle":"Registration",
+            "sessionSlug":"day-2-registration",
+            "sessionLocation":"Registration Desk",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T08:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-10T23:55:29.562Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"b09cf6cdb3e9ffd9846bb3d426852e4e_registration.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/b09cf6cdb3e9ffd9846bb3d426852e4e_registration.png"
+            },
+            "objectId":"j5MK8xElHz",
+            "sortTime":"1492588800",
+            "displayTime":"8:00am"
+         }
+      ],
+      "1492596000":[  
+         {  
+            "day":2,
+            "sessionTitle":"Keynote",
+            "sessionSlug":"day-2-keynote",
+            "sessionLocation":"City National Civic",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T10:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T11:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-06T14:38:55.717Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"15f665a69881c599bec461f24df1654c_keynote.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/15f665a69881c599bec461f24df1654c_keynote.png"
+            },
+            "objectId":"s8b0SHf7RD",
+            "sortTime":"1492596000",
+            "displayTime":"10:00am"
+         }
+      ],
+      "1492601400":[  
+         {  
+            "day":2,
+            "sessionTitle":"Lunch",
+            "sessionSlug":"day-2-lunch",
+            "sessionLocation":"Festival Hall",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T11:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-03-07T21:24:33.609Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"02bc550491b4729ede4757ba9e6731c7_Lunch.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/02bc550491b4729ede4757ba9e6731c7_Lunch.png"
+            },
+            "objectId":"ueICpSs0qp",
+            "sortTime":"1492601400",
+            "displayTime":"11:30am"
+         },
+         {  
+            "day":2,
+            "sessionTitle":"Demos, Developer Garage",
+            "sessionSlug":"day-2-demos-dev-garage",
+            "sessionLocation":"Festival Hall",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T11:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:30:00.000Z"
+            },
+            "hasDetails":false,
+            "onMySchedule":false,
+            "allDay":false,
+            "createdAt":"2017-03-01T21:51:33.826Z",
+            "updatedAt":"2017-04-19T18:30:37.157Z",
+            "ogImage":{  
+               "__type":"File",
+               "name":"361c53bc6a79ed52c0fcd2719bcea905_demos and garage.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/361c53bc6a79ed52c0fcd2719bcea905_demos%20and%20garage.png"
+            },
+            "objectId":"O9VxiZpQQ8",
+            "sortTime":"1492601400",
+            "displayTime":"11:30am"
+         }
+      ],
+      "1492603200":[  
+         {  
+            "sessionSlug":"lets-chat-about-bots",
+            "createdAt":"2017-04-09T00:26:11.382Z",
+            "updatedAt":"2017-04-12T17:43:15.633Z",
+            "sessionTitle":"Let's Chat About Bots",
+            "onMySchedule":false,
+            "sessionDescription":"Come to our panel to learn from bot builders and innovators about strategies to build and grow a successful bot.",
+            "hasDetails":true,
+            "sessionLocation":"C",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:20:00.000Z"
+            },
+            "tags":[  
+               "Messenger"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Angelique Kamara",
+                  "createdAt":"2017-04-09T00:28:10.820Z",
+                  "updatedAt":"2017-04-09T00:28:15.720Z",
+                  "speakerTitle":"Messenger Partnerships",
+                  "objectId":"NUvI0WsPrH",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Chema Alonso",
+                  "createdAt":"2017-04-09T00:28:22.667Z",
+                  "updatedAt":"2017-04-09T00:28:32.765Z",
+                  "speakerTitle":"Chief Data Officer, Telefonica",
+                  "objectId":"pzZw4qur9D",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Felipe Bernal",
+                  "createdAt":"2017-04-09T00:28:38.354Z",
+                  "updatedAt":"2017-04-09T00:28:51.978Z",
+                  "speakerTitle":"Head of Product Innovation, Chatclub (Movile)",
+                  "objectId":"AA9VFkRIdr",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Anastasia Sartan",
+                  "createdAt":"2017-04-09T00:29:03.943Z",
+                  "updatedAt":"2017-04-12T19:11:46.625Z",
+                  "speakerTitle":"Founder & CEO, Epytom Stylist",
+                  "objectId":"Ew0D5xXmsd",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Hussein Fazal",
+                  "createdAt":"2017-04-09T00:29:20.271Z",
+                  "updatedAt":"2017-04-09T00:29:30.239Z",
+                  "speakerTitle":"Co-Founder & CEO, Snaptravel",
+                  "objectId":"NZElG285jx",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"242c6873d2193880bf655740748bf5a0_Lets Chat About Bots.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/242c6873d2193880bf655740748bf5a0_Lets%20Chat%20About%20Bots.png"
+            },
+            "objectId":"3ky6xPRUYK",
+            "sortTime":"1492603200",
+            "displayTime":"12:00pm"
+         }
+      ],
+      "1492605000":[  
+         {  
+            "sessionSlug":"build-meaningful-customer-connections-with-facebook",
+            "createdAt":"2017-01-28T01:47:33.639Z",
+            "updatedAt":"2017-04-18T18:40:57.905Z",
+            "sessionTitle":"Build Meaningful Customer Connections with Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"We show you how to provide an experience for your customers that is consistent, safe, and delightful across channels and throughout their journey with your business.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:50:00.000Z"
+            },
+            "sessionLocation":"A",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:30:00.000Z"
+            },
+            "allDay":false,
+            "day":2,
+            "tags":[  
+               "Facebook Platform",
+               "Growth"
+            ],
+            "speakers":[  
+               {  
+                  "speakerName":"John Anderson",
+                  "createdAt":"2017-01-28T01:49:55.630Z",
+                  "updatedAt":"2017-04-10T16:51:45.505Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"1v6RArfe6b",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Emilia Dallman Howley",
+                  "createdAt":"2017-01-28T01:51:06.091Z",
+                  "updatedAt":"2017-02-02T16:34:35.323Z",
+                  "speakerTitle":"Product Designer",
+                  "objectId":"C7hfvSVZfw",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"54fb47f10907f0d1b82dcece733d66f4_Build meaningful customer connections with Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/54fb47f10907f0d1b82dcece733d66f4_Build%20meaningful%20customer%20connections%20with%20Facebook.png"
+            },
+            "objectId":"QIRTM9JvCF",
+            "sortTime":"1492605000",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"surround-360-beyond-stereo-360-cameras",
+            "createdAt":"2017-02-01T17:48:29.940Z",
+            "updatedAt":"2017-04-19T18:32:38.265Z",
+            "sessionTitle":"Surround 360: Beyond Stereo 360 Cameras",
+            "onMySchedule":false,
+            "sessionDescription":"The real world is immersive. It has depth. It's 3D. x24 and x6, the newest designs in the Surround 360 family, are making it possible to bring all this rich detail to life in live-action VR. In this talk, we detail the new technology and how it might change storytelling.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "speakers":[  
+               {  
+                  "speakerName":"Brian Cabral",
+                  "createdAt":"2017-02-01T00:37:43.076Z",
+                  "updatedAt":"2017-02-02T16:30:57.481Z",
+                  "speakerTitle":"Engineering Director",
+                  "objectId":"ENvtWlI7vF",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"d27a95812e3ae7688231616d4a72a64a_The Future of 3D-360 Cameras.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/d27a95812e3ae7688231616d4a72a64a_The%20Future%20of%203D-360%20Cameras.png"
+            },
+            "objectId":"5G2QBnMLDZ",
+            "sortTime":"1492605000",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"using-machine-learning-to-remove-language-barriers-on-facebook",
+            "createdAt":"2017-02-01T19:37:21.300Z",
+            "updatedAt":"2017-04-14T22:01:55.317Z",
+            "sessionTitle":"Using Machine Translation to Remove Language Barriers on Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"Deep learning has profoundly shaped the translation process. Join us as we discuss the unique challenges faced in translation, difficulties with neural networks, how these challenges were overcome, and future applications of deep learning in translation.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:50:00.000Z"
+            },
+            "sessionLocation":"G",
+            "speakers":[  
+               {  
+                  "speakerName":"Necip Fazil Ayan",
+                  "createdAt":"2017-02-01T00:43:02.863Z",
+                  "updatedAt":"2017-02-02T16:23:50.121Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"YQb4P2bsRf",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Artificial Intelligence"
+            ],
+            "day":2,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"b1c421e64c038f005fa5b208326670ff_Using Machine Translation to Remove Language Barriers on Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/b1c421e64c038f005fa5b208326670ff_Using%20Machine%20Translation%20to%20Remove%20Language%20Barriers%20on%20Facebook.png"
+            },
+            "objectId":"ZIah15dntM",
+            "sortTime":"1492605000",
+            "displayTime":"12:30pm"
+         },
+         {  
+            "sessionSlug":"how-whatsapp-reduced-spam-for-over-one-billion-people",
+            "createdAt":"2017-02-09T23:14:23.633Z",
+            "updatedAt":"2017-04-09T00:42:57.724Z",
+            "sessionTitle":"How WhatsApp Reduced Spam for Over 1 Billion People",
+            "onMySchedule":false,
+            "sessionDescription":"Building a spam detection system for an end-to-end encrypted messaging system serving over 1 billion people worldwide is no small task. Get a behind-the-scenes look at how the anti-spam team designed scalable ways to detect and prevent abuse.",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T12:50:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Matt Jones",
+                  "createdAt":"2017-02-09T23:12:11.987Z",
+                  "updatedAt":"2017-02-09T23:13:55.701Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"BNpS1jMUsh",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "WhatsApp"
+            ],
+            "allDay":false,
+            "day":2,
+            "sessionLocation":"C",
+            "hasDetails":true,
+            "ogImage":{  
+               "__type":"File",
+               "name":"01bde1e7e0421eb0a5305a991c470798_How WhatsApp Reduced Spam for Over 1 Billion People.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/01bde1e7e0421eb0a5305a991c470798_How%20WhatsApp%20Reduced%20Spam%20for%20Over%201%20Billion%20People.png"
+            },
+            "objectId":"0wcC6iQccm",
+            "sortTime":"1492605000",
+            "displayTime":"12:30pm"
+         }
+      ],
+      "1492606800":[  
+         {  
+            "sessionSlug":"visually-connecting-people-and-businesses",
+            "createdAt":"2017-02-01T17:49:59.446Z",
+            "updatedAt":"2017-04-09T00:43:05.596Z",
+            "sessionTitle":"Visually Connecting People and Businesses",
+            "onMySchedule":false,
+            "sessionDescription":"Businesses worldwide are connecting with millions of potential customers through Instagram. Learn how Instagram is using the power of visual storytelling to help businesses strengthen relationships with customers and find new ones through business tools, shopping and Instagram Stories.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:20:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Jeff Hui",
+                  "createdAt":"2017-02-01T00:38:05.011Z",
+                  "updatedAt":"2017-02-02T16:30:48.051Z",
+                  "speakerTitle":"Market Operations Manager",
+                  "objectId":"tyVmLjiWhU",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Christina Ting",
+                  "createdAt":"2017-02-01T00:38:14.557Z",
+                  "updatedAt":"2017-02-02T16:30:44.772Z",
+                  "speakerTitle":"Market Operations Manager",
+                  "objectId":"YW6wdxaOwn",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Instagram"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"546164c03784e86a83a4c89f861bc5bf_Visually Connecting People and Businesses.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/546164c03784e86a83a4c89f861bc5bf_Visually%20Connecting%20People%20and%20Businesses.png"
+            },
+            "objectId":"I5Aw5KUpY4",
+            "sortTime":"1492606800",
+            "displayTime":"1:00pm"
+         },
+         {  
+            "sessionSlug":"crafting-compelling-narratives-in-vr",
+            "createdAt":"2017-02-01T17:53:15.302Z",
+            "updatedAt":"2017-04-09T00:43:42.298Z",
+            "sessionTitle":"Crafting Compelling Narratives in VR",
+            "onMySchedule":false,
+            "sessionDescription":"Sit down with best-in-class VR filmmakers to learn what it takes to create amazing VR experiences. Whether you’re working on a 360 video or real-time rendered content, these tips will help you to understand best practices from the cutting edge of VR.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:50:00.000Z"
+            },
+            "sessionLocation":"A",
+            "speakers":[  
+               {  
+                  "speakerName":"Colum Slevin",
+                  "createdAt":"2017-02-01T00:38:43.275Z",
+                  "updatedAt":"2017-02-07T19:36:07.886Z",
+                  "speakerTitle":"Head of Experiences, Oculus",
+                  "objectId":"ZkepXeqRGJ",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Paul Raphael",
+                  "createdAt":"2017-02-06T04:20:27.679Z",
+                  "updatedAt":"2017-04-14T20:10:19.696Z",
+                  "speakerTitle":"Co-Founder & Creative Director, Felix & Paul Studios",
+                  "objectId":"jfZG9BzRvf",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Yasmin Elayat",
+                  "createdAt":"2017-02-06T04:20:50.620Z",
+                  "updatedAt":"2017-02-06T04:21:00.024Z",
+                  "speakerTitle":"Creative Director, Scatter",
+                  "objectId":"jMQPl1KdvD",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Eliza McNitt",
+                  "createdAt":"2017-02-06T04:21:15.392Z",
+                  "updatedAt":"2017-02-06T04:21:30.363Z",
+                  "speakerTitle":"Filmmaker and VR Director, Fistful of Stars",
+                  "objectId":"RErNhwHFWD",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"86920401ed5436f981152aff207a9ab4_Crafting Compelling Narratives in VR.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/86920401ed5436f981152aff207a9ab4_Crafting%20Compelling%20Narratives%20in%20VR.png"
+            },
+            "objectId":"RgTosQvAuz",
+            "sortTime":"1492606800",
+            "displayTime":"1:00pm"
+         },
+         {  
+            "sessionSlug":"natural-language-understanding-at-facebook",
+            "createdAt":"2017-04-08T06:03:06.530Z",
+            "updatedAt":"2017-04-12T19:26:56.927Z",
+            "sessionTitle":"Natural Language Understanding @ Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"In this brief talk, we will highlight some of the natural language understanding technologies that have been developed at Facebook and how they are already powering new user’s experiences.",
+            "sessionLocation":"G",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:20:00.000Z"
+            },
+            "tags":[  
+               "Artificial Intelligence"
+            ],
+            "allDay":false,
+            "speakers":[  
+               {  
+                  "speakerName":"Benoit Dumoulin",
+                  "createdAt":"2017-03-28T17:33:06.903Z",
+                  "updatedAt":"2017-03-28T17:33:23.921Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"M5k4iYeFNe",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Aparna Lakshmiratan",
+                  "createdAt":"2017-03-28T17:33:53.229Z",
+                  "updatedAt":"2017-03-28T17:34:11.071Z",
+                  "speakerTitle":"Technical Program Manager",
+                  "objectId":"zexK07TJtC",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "ogImage":{  
+               "__type":"File",
+               "name":"a12a2039e1b3a9715ca5a53eb77c692b_Natural Language Understanding @ Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/a12a2039e1b3a9715ca5a53eb77c692b_Natural%20Language%20Understanding%20%40%20Facebook.png"
+            },
+            "hasDetails":true,
+            "objectId":"8zTSALakkd",
+            "sortTime":"1492606800",
+            "displayTime":"1:00pm"
+         }
+      ],
+      "1492608600":[  
+         {  
+            "sessionSlug":"facebook-analytics-introducing-automated-insights",
+            "createdAt":"2017-01-25T15:22:39.661Z",
+            "updatedAt":"2017-04-18T19:18:16.112Z",
+            "sessionTitle":"Facebook Analytics: Introducing Automated Insights",
+            "onMySchedule":false,
+            "sessionDescription":"Analytics can provide powerful insights to help you grow. Learn how you can save time, make better decisions, optimize your product, and win with Facebook Analytics.",
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:30:00.000Z"
+            },
+            "tags":[  
+               "Facebook Platform",
+               "Analytics"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Lisa Jones",
+                  "createdAt":"2017-02-03T02:04:15.646Z",
+                  "updatedAt":"2017-02-03T02:04:24.101Z",
+                  "speakerTitle":"Data Scientist",
+                  "objectId":"LfOX7puu1F",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Luke Sernau",
+                  "createdAt":"2017-02-03T02:04:42.180Z",
+                  "updatedAt":"2017-02-03T02:04:47.360Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"x4J25vWwgY",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "hasDetails":true,
+            "ogImage":{  
+               "__type":"File",
+               "name":"186c9c893c81129d562f98be394012e0_Facebook Analytics Introducing Automated Insights.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/186c9c893c81129d562f98be394012e0_Facebook%20Analytics%20Introducing%20Automated%20Insights.png"
+            },
+            "objectId":"O4UVNWWEVX",
+            "sortTime":"1492608600",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"making-the-social-graph-semantic",
+            "createdAt":"2017-02-01T19:38:02.883Z",
+            "updatedAt":"2017-04-12T20:36:41.407Z",
+            "sessionTitle":"Making the Facebook Social Graph Semantic",
+            "onMySchedule":false,
+            "sessionDescription":"As media content grows on FB, we are investing in new ways for engineering teams to harness the power of computer vision for their products and services without the need for prior expertise. Come for a sneak peek into how we're advancing this framework for video products, which has both multimodal and time complexities.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:50:00.000Z"
+            },
+            "sessionLocation":"G",
+            "speakers":[  
+               {  
+                  "speakerName":"Manohar Paluri",
+                  "createdAt":"2017-02-01T00:43:11.615Z",
+                  "updatedAt":"2017-02-02T16:23:45.532Z",
+                  "speakerTitle":"Research Lead",
+                  "objectId":"ZhHjI242JT",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Merlyn Deng",
+                  "createdAt":"2017-03-29T20:07:14.146Z",
+                  "updatedAt":"2017-03-29T20:13:22.025Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"WJFiGx75HE",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Artificial Intelligence"
+            ],
+            "day":2,
+            "allDay":false,
+            "ogImage":{  
+               "__type":"File",
+               "name":"531994cf991f4f3e76c998fc8167ed74_Making the Facebook Social Graph Semantic.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/531994cf991f4f3e76c998fc8167ed74_Making%20the%20Facebook%20Social%20Graph%20Semantic.png"
+            },
+            "objectId":"D7GCqGdsnb",
+            "sortTime":"1492608600",
+            "displayTime":"1:30pm"
+         },
+         {  
+            "sessionSlug":"360-capture-sdk-making-vr-social-through-immersive-media-capture",
+            "createdAt":"2017-03-16T20:21:10.144Z",
+            "updatedAt":"2017-04-19T18:32:38.265Z",
+            "sessionTitle":"360 Capture SDK: Making VR Social Through Immersive Media Capture",
+            "onMySchedule":false,
+            "sessionDescription":"360 Capture SDK makes it accessible for people to capture and share their VR experience through a 360 photo or video on Facebook. Find out about using this SDK in VR titles.",
+            "hasDetails":true,
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:50:00.000Z"
+            },
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T13:30:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Chetan Gupta",
+                  "createdAt":"2017-03-16T20:22:57.903Z",
+                  "updatedAt":"2017-03-16T20:23:15.918Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"QpAonYGqYI",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"328853c158f69ec860f5fd03c5ae9e17_The Engineering Behind Shared 360 Photos and Videos.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/328853c158f69ec860f5fd03c5ae9e17_The%20Engineering%20Behind%20Shared%20360%20Photos%20and%20Videos.png"
+            },
+            "objectId":"6RqsYYbQF1",
+            "sortTime":"1492608600",
+            "displayTime":"1:30pm"
+         }
+      ],
+      "1492610400":[  
+         {  
+            "sessionSlug":"marketing-apis-the-automation-advantage-for-all",
+            "createdAt":"2017-02-01T19:32:17.100Z",
+            "updatedAt":"2017-04-09T00:45:31.209Z",
+            "sessionTitle":"Marketing API's: The Automation Advantage, for All",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook's Marketing API enables developers and businesses to deliver solutions beyond the capabilities of traditional marketers. Learn how Netflix used the Marketing API’s to automate their ads management process and drive better ads performance.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:20:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Melody Chu",
+                  "createdAt":"2017-02-01T00:41:02.642Z",
+                  "updatedAt":"2017-02-02T16:25:42.219Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"6zpSElWPX8",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"b201b1f1013f9e7cb817d02f0306a00e_Marketing API The Automation Advantage for All.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/b201b1f1013f9e7cb817d02f0306a00e_Marketing%20API%20The%20Automation%20Advantage%20for%20All.png"
+            },
+            "objectId":"fIDaPidJPl",
+            "sortTime":"1492610400",
+            "displayTime":"2:00pm"
+         },
+         {  
+            "sessionSlug":"vr-together-adding-social-components-to-your-vr-apps",
+            "createdAt":"2017-02-04T00:46:44.051Z",
+            "updatedAt":"2017-04-09T00:43:33.472Z",
+            "sessionTitle":"VR Together: Adding Social Components to Your VR Apps",
+            "onMySchedule":false,
+            "sessionDescription":"Interactive and fun social experiences foster greater consumer engagement in VR. This talk will focus on the APIs and features that Oculus provides to add a social layer to your app, including the Avatar SDK, VoIP, Invites, and Oculus Rooms.",
+            "hasDetails":true,
+            "sessionLocation":"A",
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Mike Howard ",
+                  "createdAt":"2017-02-04T00:51:42.952Z",
+                  "updatedAt":"2017-02-04T00:52:40.255Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"IiyFPWsnpE",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:50:00.000Z"
+            },
+            "ogImage":{  
+               "__type":"File",
+               "name":"7d9883aa21d5b28b8c6f92d6993a02a6_VR Together Adding Social Components to Your VR Apps.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/7d9883aa21d5b28b8c6f92d6993a02a6_VR%20Together%20Adding%20Social%20Components%20to%20Your%20VR%20Apps.png"
+            },
+            "objectId":"dnrt1AX2RK",
+            "sortTime":"1492610400",
+            "displayTime":"2:00pm"
+         },
+         {  
+            "sessionSlug":"the-evolution-of-dynamic-streaming",
+            "createdAt":"2017-04-10T17:00:51.682Z",
+            "updatedAt":"2017-04-12T18:52:58.881Z",
+            "sessionTitle":"The Evolution of Dynamic Streaming ",
+            "onMySchedule":false,
+            "sessionDescription":" Last year, we introduced VR video streaming tech that made videos look clearer and play faster. We’ll give an update on that technology, including our latest techniques to analyze VR video so it can be compressed and streamed in an even more efficient manner.",
+            "hasDetails":true,
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:50:00.000Z"
+            },
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Shannon Chen",
+                  "createdAt":"2017-04-10T17:03:01.001Z",
+                  "updatedAt":"2017-04-10T17:04:01.305Z",
+                  "speakerTitle":"Research Scientist",
+                  "objectId":"LSNzGNpFtB",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"David Pio",
+                  "createdAt":"2017-04-10T17:03:07.442Z",
+                  "updatedAt":"2017-04-10T17:04:11.279Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"sDBKc9XJrP",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Evgeny Kuzyakov",
+                  "createdAt":"2017-04-10T17:03:20.833Z",
+                  "updatedAt":"2017-04-10T17:04:23.016Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"ZVFeRhDDq9",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"53cfb3427dc3d18f3cd9a414750d3245_The Evolution of Dynamic Streaming.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/53cfb3427dc3d18f3cd9a414750d3245_The%20Evolution%20of%20Dynamic%20Streaming.png"
+            },
+            "objectId":"TqQVcCS5Tv",
+            "sortTime":"1492610400",
+            "displayTime":"2:00pm"
+         },
+         {  
+            "sessionTitle":"Casual 3D Capture",
+            "createdAt":"2017-04-14T21:59:39.581Z",
+            "updatedAt":"2017-04-17T23:51:49.868Z",
+            "sessionSlug":"casual-3d-capture ",
+            "onMySchedule":false,
+            "sessionDescription":"This session will look at traditional scene capture through images and the ability to, for the first time, add depth and context to images and applying them in VR + Feed",
+            "hasDetails":true,
+            "sessionLocation":"G",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:20:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Johannes Kopf",
+                  "createdAt":"2017-04-14T22:02:16.132Z",
+                  "updatedAt":"2017-04-14T22:02:43.027Z",
+                  "speakerTitle":"Research Scientist",
+                  "objectId":"A91WnDT3dj",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Artificial Intelligence"
+            ],
+            "allDay":false,
+            "day":2,
+            "ogImage":{  
+               "__type":"File",
+               "name":"f9771c4af7460d5158ad722e34510397_Casual 3D Capture.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/f9771c4af7460d5158ad722e34510397_Casual%203D%20Capture.png"
+            },
+            "objectId":"A3mshRTOEx",
+            "sortTime":"1492610400",
+            "displayTime":"2:00pm"
+         }
+      ],
+      "1492612200":[  
+         {  
+            "sessionTitle":"Discover New Facebook Advertising Tools",
+            "createdAt":"2017-02-01T19:31:26.455Z",
+            "updatedAt":"2017-04-09T00:45:20.973Z",
+            "sessionSlug":"discover-new-facebook-advertising-tools",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook’s developers have a variety of goals – from driving installs to building on the marketing API. Whatever your aim, we have the advertising tools you need for success. Join the ads team as we reveal the latest in video, Live, Pages, and ad formats.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:50:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Richard Sim ",
+                  "createdAt":"2017-02-01T00:40:58.668Z",
+                  "updatedAt":"2017-02-02T16:25:51.405Z",
+                  "speakerTitle":"Product Marketing Director",
+                  "objectId":"tvI8SkXFio",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"4bceed1ced5c172c537009aec54a5fff_Discover New Facebook Advertising Tools.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/4bceed1ced5c172c537009aec54a5fff_Discover%20New%20Facebook%20Advertising%20Tools.png"
+            },
+            "objectId":"LasCpHe5uM",
+            "sortTime":"1492612200",
+            "displayTime":"2:30pm"
+         },
+         {  
+            "sessionSlug":"powering-mobile-commerce-on-facebook",
+            "createdAt":"2017-02-04T02:46:49.073Z",
+            "updatedAt":"2017-04-04T20:13:33.688Z",
+            "sessionTitle":"Powering Mobile Commerce on Facebook",
+            "onMySchedule":false,
+            "sessionDescription":"People use Facebook to discover and engage with products and services, increasingly on mobile.  Hear tips to help businesses drive discovery and sales on Facebook.\n ",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T14:50:00.000Z"
+            },
+            "tags":[  
+               "Facebook Platform"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Chen Zheng",
+                  "createdAt":"2017-02-04T02:46:17.774Z",
+                  "updatedAt":"2017-02-04T02:46:22.258Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"nScSKi8cWQ",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Susan Kwok",
+                  "createdAt":"2017-02-04T22:29:39.329Z",
+                  "updatedAt":"2017-02-04T22:29:52.062Z",
+                  "speakerTitle":"Technical Program Manager",
+                  "objectId":"s1c4w1uYfn",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "sessionLocation":"G",
+            "ogImage":{  
+               "__type":"File",
+               "name":"59ee7b266901c50c89ac07ef1e69d4ca_Powering Mobile Commerce on Facebook.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/59ee7b266901c50c89ac07ef1e69d4ca_Powering%20Mobile%20Commerce%20on%20Facebook.png"
+            },
+            "objectId":"Twka3IB7mx",
+            "sortTime":"1492612200",
+            "displayTime":"2:30pm"
+         }
+      ],
+      "1492614000":[  
+         {  
+            "sessionSlug":"delivering-real-time-AI-in-the-palm-of-your-hand",
+            "createdAt":"2017-02-01T17:46:57.696Z",
+            "updatedAt":"2017-03-20T21:47:48.145Z",
+            "sessionTitle":"Delivering Real-Time AI in the Palm of Your Hand ",
+            "onMySchedule":false,
+            "sessionDescription":"As web services shifted to mobile, machine-learning was left in the data centers. We’ve moved ML to the phone, launching a full machine-learning runtime inside Facebook. Come learn what we’ve built, how it’s used, and what it means for developers.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:20:00.000Z"
+            },
+            "sessionLocation":"F",
+            "speakers":[  
+               {  
+                  "speakerName":"Andrew Tulloch",
+                  "createdAt":"2017-02-01T00:36:48.250Z",
+                  "updatedAt":"2017-02-02T16:31:17.149Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"r0VVA0GFhC",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Yangqing Jia",
+                  "createdAt":"2017-02-01T00:36:58.879Z",
+                  "updatedAt":"2017-02-02T16:31:12.661Z",
+                  "speakerTitle":"Research Scientist",
+                  "objectId":"M9cr4TLQZH",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"961d9ed44002b8fe533e9b29b512c69b_Delivering Real-Time AI in the Palm of Your Hand .png",
+               "url":"https://f82017-parse.s3.amazonaws.com/961d9ed44002b8fe533e9b29b512c69b_Delivering%20Real-Time%20AI%20in%20the%20Palm%20of%20Your%20Hand%20.png"
+            },
+            "objectId":"2ng9pRsDsY",
+            "sortTime":"1492614000",
+            "displayTime":"3:00pm"
+         },
+         {  
+            "sessionSlug":"explore-the-power-of-the-pages-api",
+            "createdAt":"2017-02-01T19:32:56.448Z",
+            "updatedAt":"2017-04-09T00:45:41.908Z",
+            "sessionTitle":"Explore the Power of the Pages API",
+            "onMySchedule":false,
+            "sessionDescription":"Facebook Pages help developers manage and curate content as well as grow their communities. Come hear the benefits of the Pages API, learn about upcoming features, discover insights, and dive into webhooks.",
+            "hasDetails":true,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:20:00.000Z"
+            },
+            "sessionLocation":"C",
+            "speakers":[  
+               {  
+                  "speakerName":"Suvrat Joshi",
+                  "createdAt":"2017-02-01T00:41:10.448Z",
+                  "updatedAt":"2017-02-02T16:25:38.111Z",
+                  "speakerTitle":"Product Manager",
+                  "objectId":"5zNDqYYkuz",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Bradley Owens",
+                  "createdAt":"2017-02-01T00:41:17.997Z",
+                  "updatedAt":"2017-02-02T16:25:32.905Z",
+                  "speakerTitle":"Product Marketing Manager",
+                  "objectId":"Gkj3HPGB79",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "day":2,
+            "allDay":false,
+            "tags":[  
+               "Ads & Monetization"
+            ],
+            "ogImage":{  
+               "__type":"File",
+               "name":"adbbd2c5f809927412a17615b495ecdd_Explore the Power of the Pages API.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/adbbd2c5f809927412a17615b495ecdd_Explore%20the%20Power%20of%20the%20Pages%20API.png"
+            },
+            "objectId":"Jkc4ZbkFL9",
+            "sortTime":"1492614000",
+            "displayTime":"3:00pm"
+         },
+         {  
+            "sessionSlug":"vr-201-lessons-from-the-frontlines",
+            "createdAt":"2017-02-04T00:55:38.361Z",
+            "updatedAt":"2017-04-18T18:48:00.861Z",
+            "sessionTitle":"VR201: Lessons from the Frontlines",
+            "onMySchedule":false,
+            "sessionDescription":"We will share some of the road blocks that engineers will encounter as they ramp up in VR development with practical lessons and case studies to overcome them. Attendees can expect insights on everything from code samples to tools to design tips.",
+            "hasDetails":true,
+            "sessionLocation":"A",
+            "tags":[  
+               "Virtual Reality"
+            ],
+            "allDay":false,
+            "day":2,
+            "speakers":[  
+               {  
+                  "speakerName":"Chris Pruett",
+                  "createdAt":"2017-02-04T00:57:50.023Z",
+                  "updatedAt":"2017-04-18T16:11:55.387Z",
+                  "speakerTitle":"Head of Development Engineering for Mobile, Oculus",
+                  "objectId":"lRfMhopaRr",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:50:00.000Z"
+            },
+            "ogImage":{  
+               "__type":"File",
+               "name":"ccd90ee7f4d836c1b80945916740dee8_VR 201 Lessons from the Frontlines of VR Gaming.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/ccd90ee7f4d836c1b80945916740dee8_VR%20201%20Lessons%20from%20the%20Frontlines%20of%20VR%20Gaming.png"
+            },
+            "objectId":"oAp8aOF2y9",
+            "sortTime":"1492614000",
+            "displayTime":"3:00pm"
+         }
+      ],
+      "1492615800":[  
+         {  
+            "sessionSlug":"building-for-a-billion-people-behind-the-scenes-with-facebooks-product-engineers",
+            "createdAt":"2017-04-12T18:51:16.482Z",
+            "updatedAt":"2017-04-12T18:56:34.160Z",
+            "sessionTitle":"Building for a Billion People: Behind the Scenes with Facebook's Product Engineers",
+            "onMySchedule":false,
+            "sessionDescription":"In this talk, we will explain how we have managed to maintain a culture of speed while staying in tune with our global and diverse user base, testing and shipping new features and improvements that work for everyone around the globe.",
+            "hasDetails":true,
+            "sessionLocation":"F",
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:30:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T15:50:00.000Z"
+            },
+            "speakers":[  
+               {  
+                  "speakerName":"Jenny Yuen",
+                  "createdAt":"2017-04-12T18:53:33.100Z",
+                  "updatedAt":"2017-04-12T18:53:55.105Z",
+                  "speakerTitle":"Engineering Manager",
+                  "objectId":"tXaGa26BdO",
+                  "__type":"Object",
+                  "className":"Speakers"
+               },
+               {  
+                  "speakerName":"Ansha Yu",
+                  "createdAt":"2017-04-12T18:54:16.380Z",
+                  "updatedAt":"2017-04-12T18:54:29.739Z",
+                  "speakerTitle":"Software Engineer",
+                  "objectId":"A6wr0lmxg9",
+                  "__type":"Object",
+                  "className":"Speakers"
+               }
+            ],
+            "tags":[  
+               "Engineering & Open Source"
+            ],
+            "allDay":false,
+            "day":2,
+            "ogImage":{  
+               "__type":"File",
+               "name":"a6220281dbc8590ca5fcdc453e433708_Building for a Billion People Behind the Scenes with Facebook Product Engineers.png",
+               "url":"https://f82017-parse.s3.amazonaws.com/a6220281dbc8590ca5fcdc453e433708_Building%20for%20a%20Billion%20People%20Behind%20the%20Scenes%20with%20Facebook%20Product%20Engineers.png"
+            },
+            "objectId":"ZrXIKxH4Mu",
+            "sortTime":"1492615800",
+            "displayTime":"3:30pm"
+         }
+      ],
+      "1492617600":[  
+         {  
+            "sessionSlug":"day-2-happyhour",
+            "createdAt":"2017-03-29T14:30:17.725Z",
+            "updatedAt":"2017-04-19T18:56:17.765Z",
+            "sessionTitle":"Happy Hour",
+            "onMySchedule":false,
+            "hasDetails":false,
+            "startTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T16:00:00.000Z"
+            },
+            "endTime":{  
+               "__type":"Date",
+               "iso":"2017-04-19T18:00:00.000Z"
+            },
+            "sessionLocation":"LL",
+            "day":2,
+            "allDay":false,
+            "objectId":"YzCNmClAo5",
+            "sortTime":"1492617600",
+            "displayTime":"4:00pm"
+         }
+      ]
+   }
+]
