@@ -3,6 +3,8 @@ var express = require('express');
 var mbaasExpress = mbaasApi.mbaasExpress();
 var cors = require('cors');
 
+var socketServer = require('./lib/socket-server');
+
 // list the endpoints which you want to make securable here
 var securableEndpoints;
 securableEndpoints = ['/hello'];
@@ -44,6 +46,8 @@ app.use('/login', require('./lib/login.js')());
 app.use('/events', require('./lib/events.js')());
 app.use('/quizzes', require('./lib/quizzes.js')());
 
+app.use('/live', socketServer.route());
+
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
 
@@ -54,4 +58,4 @@ var server = app.listen(port, host, function() {
 });
 
 // Socket io server setup
-require('./lib/socket-server').init(server);
+socketServer.init(server);
