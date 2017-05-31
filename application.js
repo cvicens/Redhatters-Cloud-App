@@ -46,6 +46,7 @@ app.use('/login', require('./lib/login.js')());
 app.use('/events', require('./lib/events.js')());
 app.use('/quizzes', require('./lib/quizzes.js').route());
 
+// Socket server endpoints to get a live view of the data managed with socket.io
 app.use('/live', socketServer.route());
 
 // Important that this is last!
