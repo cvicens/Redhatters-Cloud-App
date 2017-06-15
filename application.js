@@ -1,3 +1,6 @@
+console.log('FH_SERVICE_MAP', process.env.FH_SERVICE_MAP);
+process.env.FH_SERVICE_MAP = "{\"oh4pt5hwb5bg2sq3frv5rwt2\":\"https://techlab-oh4pt5hwb5bg2sq3frv5rwt2-teama.mbaas2.tom.redhatmobile.com\",\"SERVICE_GUID_2\":\"https://host-and-path-to-service\"}";
+
 var mbaasApi = require('fh-mbaas-api');
 var express = require('express');
 var mbaasExpress = mbaasApi.mbaasExpress();
